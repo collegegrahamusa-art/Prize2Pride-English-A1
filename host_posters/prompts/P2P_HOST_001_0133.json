@@ -1,0 +1,24 @@
+{
+  "prompt_id": "P2P_HOST_001_0133",
+  "host_count": 4,
+  "gender_config": "2 males 2 females",
+  "ethnicities": [
+    "Mediterranean",
+    "Caucasian",
+    "Latino/Latina",
+    "Mixed heritage"
+  ],
+  "topic": "Engineering",
+  "languages": [
+    "Portuguese",
+    "Vietnamese",
+    "Hindi"
+  ],
+  "studio_style": "luxurious with marble floors and crystal chandeliers",
+  "clothing_style": "luxury fashion with high-end accessories",
+  "pose_description": "standing confidently on the platform, some gesturing toward the smart screens",
+  "screen_content": "showing 'Buy2Win' dashboard with learning progress charts",
+  "wheel_description": "luxurious golden prize wheel with LED lights and 'Prize2Pride' branding",
+  "full_prompt": "Hyper-realistic, ultra-high-definition photograph of a premium educational studio for 'Prize2Pride' platform.\n\nHOSTS: two handsome men and two beautiful women of diverse ethnicities (Mediterranean, Caucasian, Latino/Latina, Mixed heritage), all EXTREMELY beautiful, handsome, and stunningly elegant with model-like features, perfect skin, and professional styling. They are standing confidently on the platform, some gesturing toward the smart screens.\n\nSTUDIO SETUP:\n- luxurious with marble floors and crystal chandeliers professional studio\n- Two large sophisticated touch-enabled smart screens on left and right walls\n- Luxurious luxurious golden prize wheel with LED lights and 'Prize2Pride' branding positioned centrally between the two smart screens\n- Elevated 10cm platform with three steps where hosts stand\n- 'Prize2Pride' brand logo prominently and delicately displayed on both smart screens\n- Professional studio lighting with soft key lights and elegant rim lighting\n\nSMART SCREENS:\n- Left screen: showing 'Buy2Win' dashboard with learning progress charts\n- Right screen: displaying multilingual content in Portuguese, Vietnamese, Hindi\n- Both screens show 'Prize2Pride' branding clearly and elegantly\n- Sub-platforms 'Purchase2Win' and 'Buy2Win' visible on screen interfaces\n\nHOSTS APPEARANCE:\n- All hosts are exceptionally attractive with perfect symmetrical features\n- Wearing luxury fashion with high-end accessories\n- Professional hair and makeup, camera-ready\n- Confident, warm, and engaging expressions\n- Perfect posture and body language\n\nTOPIC: Hosts are presenting on Engineering\n\nATMOSPHERE:\n- Professional broadcast-quality environment\n- Sophisticated color grading with rich, vibrant tones\n- Cinematic depth of field with hosts in sharp focus\n- Premium corporate aesthetic\n- Welcoming and inspiring ambiance\n\nTECHNICAL SPECS:\n- 8K resolution quality\n- Professional photography lighting setup\n- Photorealistic rendering\n- Commercial advertising quality\n- Magazine cover worthy composition\n\nStyle: Ultra-realistic commercial photography, corporate branding photoshoot, premium educational platform marketing material",
+  "image_filename": "prize2pride_hosts_001_0133.png"
+}
