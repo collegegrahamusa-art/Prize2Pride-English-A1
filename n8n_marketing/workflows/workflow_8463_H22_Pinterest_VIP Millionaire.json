@@ -1,0 +1,252 @@
+{
+  "name": "Prize2Pride_Pinterest_VIP Millionaire_Hour22_8463",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 24
+            }
+          ],
+          "atHour": 22
+        }
+      },
+      "name": "Schedule_22:00",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "content",
+              "value": "👑 Night Learning - Deep dives! Ultimate luxury learning. Help us reach 1M sales for MEGA GIFTS! Claim Your Gift!\\n\\n🔐 Every purchase = unique blockchain code. Uncontrollable. Immutable. Yours forever."
+            },
+            {
+              "name": "hashtags",
+              "value": "#Prize2Pride #Purchase2Win #Buy2Win #VIP MillionaireTier #AILearning #BlockchainEducation #ShowBasedTraining #Hour22 #MegaGifts #1MillionMilestone"
+            },
+            {
+              "name": "cta",
+              "value": "Claim Your Gift"
+            },
+            {
+              "name": "tier",
+              "value": "VIP Millionaire"
+            },
+            {
+              "name": "platform",
+              "value": "Pinterest"
+            }
+          ]
+        }
+      },
+      "name": "Content_Generator",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 1,
+      "position": [
+        450,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "text": "={{$json.content}}\\n\\n{{$json.hashtags}}\\n\\n{{$json.cta}}",
+        "additionalFields": {
+          "tier": "VIP Millionaire",
+          "platform": "Pinterest"
+        }
+      },
+      "name": "Post_to_Pinterest",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        650,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.prize2pride.com/analytics/track",
+        "method": "POST",
+        "jsonParameters": true,
+        "options": {},
+        "bodyParametersJson": "{\"platform\": \"Pinterest\", \"tier\": \"VIP Millionaire\", \"hour\": 22, \"strategy\": \"Gift Reveals\", \"timestamp\": \"={{$now}}\"}"
+      },
+      "name": "Track_Analytics",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        850,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "number": [
+            {
+              "value1": "={{$json.totalSales}}",
+              "operation": "largerEqual",
+              "value2": 1000000
+            }
+          ]
+        }
+      },
+      "name": "Check_1M_Milestone",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        1050,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.prize2pride.com/campaigns/mega-gift",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "{\"trigger\": \"1M_MILESTONE_REACHED\", \"timestamp\": \"={{$now}}\", \"platform\": \"Pinterest\"}"
+      },
+      "name": "Activate_Mega_Gifts",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        1250,
+        200
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.prize2pride.com/purchase2win/distribute",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "{\"platform\": \"Pinterest\", \"tier\": \"VIP Millionaire\", \"giftType\": \"hourly_engagement\", \"hour\": 22}"
+      },
+      "name": "Purchase2Win_Gifts",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        1050,
+        450
+      ]
+    },
+    {
+      "parameters": {
+        "functionCode": "\nconst crypto = require('crypto');\n\n// Generate unique blockchain code\nconst timestamp = Date.now();\nconst randomBytes = crypto.randomBytes(32).toString('hex');\nconst tier = 'VIP Millionaire';\nconst platform = 'Pinterest';\n\nconst blockchainCode = `P2P-${tier}-${timestamp}-${randomBytes.substring(0, 16)}`;\n\nreturn {\n    blockchainCode: blockchainCode,\n    timestamp: timestamp,\n    tier: tier,\n    platform: platform,\n    immutable: true\n};\n"
+      },
+      "name": "Generate_Blockchain_Code",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [
+        650,
+        450
+      ]
+    }
+  ],
+  "connections": {
+    "Schedule_22:00": {
+      "main": [
+        [
+          {
+            "node": "Content_Generator",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Content_Generator": {
+      "main": [
+        [
+          {
+            "node": "Post_to_Pinterest",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Generate_Blockchain_Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Post_to_Pinterest": {
+      "main": [
+        [
+          {
+            "node": "Track_Analytics",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Track_Analytics": {
+      "main": [
+        [
+          {
+            "node": "Check_1M_Milestone",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check_1M_Milestone": {
+      "main": [
+        [
+          {
+            "node": "Activate_Mega_Gifts",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Purchase2Win_Gifts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate_Blockchain_Code": {
+      "main": [
+        [
+          {
+            "node": "Purchase2Win_Gifts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "tags": [
+    {
+      "name": "Pinterest"
+    },
+    {
+      "name": "VIP Millionaire"
+    },
+    {
+      "name": "Hour22"
+    },
+    {
+      "name": "Gift Reveals"
+    }
+  ]
+}

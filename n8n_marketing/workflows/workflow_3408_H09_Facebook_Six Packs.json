@@ -1,0 +1,252 @@
+{
+  "name": "Prize2Pride_Facebook_Six Packs_Hour09_3408",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "hoursInterval": 24
+            }
+          ],
+          "atHour": 9
+        }
+      },
+      "name": "Schedule_09:00",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1,
+      "position": [
+        250,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "values": {
+          "string": [
+            {
+              "name": "content",
+              "value": "📚 Mid-Morning Boost - Coffee break learning! Get 6 premium courses monthly + blockchain certificates. $9.99/month. Limited Spots Available!\\n\\n🔐 Every purchase = unique blockchain code. Uncontrollable. Immutable. Yours forever."
+            },
+            {
+              "name": "hashtags",
+              "value": "#Prize2Pride #Purchase2Win #Buy2Win #Six PacksTier #AILearning #BlockchainEducation #ShowBasedTraining #Hour9 #MegaGifts #1MillionMilestone"
+            },
+            {
+              "name": "cta",
+              "value": "Limited Spots Available"
+            },
+            {
+              "name": "tier",
+              "value": "Six Packs"
+            },
+            {
+              "name": "platform",
+              "value": "Facebook"
+            }
+          ]
+        }
+      },
+      "name": "Content_Generator",
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 1,
+      "position": [
+        450,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "text": "={{$json.content}}\\n\\n{{$json.hashtags}}\\n\\n{{$json.cta}}",
+        "additionalFields": {
+          "tier": "Six Packs",
+          "platform": "Facebook"
+        }
+      },
+      "name": "Post_to_Facebook",
+      "type": "n8n-nodes-base.facebookGraphApi",
+      "typeVersion": 1,
+      "position": [
+        650,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.prize2pride.com/analytics/track",
+        "method": "POST",
+        "jsonParameters": true,
+        "options": {},
+        "bodyParametersJson": "{\"platform\": \"Facebook\", \"tier\": \"Six Packs\", \"hour\": 9, \"strategy\": \"Blockchain Benefits\", \"timestamp\": \"={{$now}}\"}"
+      },
+      "name": "Track_Analytics",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        850,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "number": [
+            {
+              "value1": "={{$json.totalSales}}",
+              "operation": "largerEqual",
+              "value2": 1000000
+            }
+          ]
+        }
+      },
+      "name": "Check_1M_Milestone",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 1,
+      "position": [
+        1050,
+        300
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.prize2pride.com/campaigns/mega-gift",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "{\"trigger\": \"1M_MILESTONE_REACHED\", \"timestamp\": \"={{$now}}\", \"platform\": \"Facebook\"}"
+      },
+      "name": "Activate_Mega_Gifts",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        1250,
+        200
+      ]
+    },
+    {
+      "parameters": {
+        "url": "https://api.prize2pride.com/purchase2win/distribute",
+        "method": "POST",
+        "jsonParameters": true,
+        "bodyParametersJson": "{\"platform\": \"Facebook\", \"tier\": \"Six Packs\", \"giftType\": \"hourly_engagement\", \"hour\": 9}"
+      },
+      "name": "Purchase2Win_Gifts",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 1,
+      "position": [
+        1050,
+        450
+      ]
+    },
+    {
+      "parameters": {
+        "functionCode": "\nconst crypto = require('crypto');\n\n// Generate unique blockchain code\nconst timestamp = Date.now();\nconst randomBytes = crypto.randomBytes(32).toString('hex');\nconst tier = 'Six Packs';\nconst platform = 'Facebook';\n\nconst blockchainCode = `P2P-${tier}-${timestamp}-${randomBytes.substring(0, 16)}`;\n\nreturn {\n    blockchainCode: blockchainCode,\n    timestamp: timestamp,\n    tier: tier,\n    platform: platform,\n    immutable: true\n};\n"
+      },
+      "name": "Generate_Blockchain_Code",
+      "type": "n8n-nodes-base.function",
+      "typeVersion": 1,
+      "position": [
+        650,
+        450
+      ]
+    }
+  ],
+  "connections": {
+    "Schedule_09:00": {
+      "main": [
+        [
+          {
+            "node": "Content_Generator",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Content_Generator": {
+      "main": [
+        [
+          {
+            "node": "Post_to_Facebook",
+            "type": "main",
+            "index": 0
+          },
+          {
+            "node": "Generate_Blockchain_Code",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Post_to_Facebook": {
+      "main": [
+        [
+          {
+            "node": "Track_Analytics",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Track_Analytics": {
+      "main": [
+        [
+          {
+            "node": "Check_1M_Milestone",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Check_1M_Milestone": {
+      "main": [
+        [
+          {
+            "node": "Activate_Mega_Gifts",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Purchase2Win_Gifts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Generate_Blockchain_Code": {
+      "main": [
+        [
+          {
+            "node": "Purchase2Win_Gifts",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "tags": [
+    {
+      "name": "Facebook"
+    },
+    {
+      "name": "Six Packs"
+    },
+    {
+      "name": "Hour09"
+    },
+    {
+      "name": "Blockchain Benefits"
+    }
+  ]
+}
