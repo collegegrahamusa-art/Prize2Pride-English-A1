@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0004_REG_neutral_GENRE_horror",
+  "original_lesson_id": "B1_0004",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "neutral",
+  "language_register_name": "Neutral/Standard",
+  "genre_theme": "horror",
+  "genre_theme_name": "Horror",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Hobbies and Free Time",
+  "augmented_topic": "Hobbies and Free Time (Horror Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Clear and direct",
+    "Standard grammar",
+    "Professional vocabulary",
+    "Balanced tone",
+    "Appropriate for most contexts"
+  ],
+  "register_example_phrases": [
+    "How are you?",
+    "That's excellent",
+    "I believe so",
+    "Is that correct?",
+    "Please proceed"
+  ],
+  "genre_vocabulary": [
+    "terror",
+    "darkness",
+    "mysterious",
+    "haunting",
+    "eerie",
+    "sinister"
+  ],
+  "genre_scenario_twist": "frightening or supernatural situation",
+  "genre_tone": "suspenseful, dark, unsettling",
+  "objectives": [
+    "Students will discuss hobbies and free time using Neutral/Standard register language",
+    "Students will engage with Horror themed scenarios related to hobbies and free time",
+    "Students will demonstrate appropriate use of neutral level vocabulary and expressions",
+    "Students will create dialogues combining hobbies and free time content with Horror narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Horror Scenario Introduction",
+    "register": "Neutral/Standard",
+    "description": "Students explore hobbies and free time through a Horror lens using Neutral/Standard language",
+    "scenario": "Imagine a frightening or supernatural situation involving hobbies and free time",
+    "tone": "suspenseful, dark, unsettling",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Horror Vocabulary Building",
+      "description": "Students learn and practice neutral register vocabulary related to hobbies and free time in a horror context",
+      "genre_element": "frightening or supernatural situation",
+      "register_focus": "Neutral/Standard",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Horror Role-Play",
+      "description": "Students engage in horror themed role-play about hobbies and free time using neutral register",
+      "genre_element": "suspenseful, dark, unsettling",
+      "register_focus": "Neutral/Standard",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Horror Creative Production",
+      "description": "Students create original horror themed content about hobbies and free time in neutral register",
+      "genre_element": "narrative creation",
+      "register_focus": "Neutral/Standard",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe hobbies and free time in a Horror scenario?",
+    "What terror or darkness might be involved in hobbies and free time?",
+    "Can you create a Horror story about hobbies and free time?",
+    "How does hobbies and free time change when viewed through a Horror perspective?",
+    "What neutral register expressions would you use to discuss this horror scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Horror situation involving hobbies and free time",
+      "register": "Neutral/Standard",
+      "genre_twist": "frightening or supernatural situation",
+      "roles": [
+        "Character A: Using neutral register in horror context",
+        "Character B: Responding in neutral register within horror theme"
+      ],
+      "tone": "suspenseful, dark, unsettling",
+      "vocabulary_focus": [
+        "terror",
+        "darkness",
+        "mysterious"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How are you?",
+    "positive_reaction": "That's excellent",
+    "agreement": "I believe so",
+    "question": "Is that correct?",
+    "closing": "Please proceed"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "terror",
+      "darkness",
+      "mysterious",
+      "haunting",
+      "eerie",
+      "sinister"
+    ],
+    "topic_genre_blend": [
+      "hobbies and free time with terror",
+      "hobbies and free time with darkness",
+      "hobbies and free time with mysterious"
+    ],
+    "narrative_elements": [
+      "Horror scenario",
+      "suspenseful, dark, unsettling atmosphere",
+      "frightening or supernatural situation"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Neutral/Standard throughout: Standard professional communication",
+    "genre_guidance": "Frame all content with Horror theme: Fear, suspense, supernatural elements",
+    "tone": "suspenseful, dark, unsettling",
+    "key_vocabulary": [
+      "terror",
+      "darkness",
+      "mysterious",
+      "haunting",
+      "eerie",
+      "sinister"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Neutral/Standard register",
+    "genre_focus": "Students engage with Horror themed content",
+    "criteria": [
+      "Appropriate use of neutral register language",
+      "Engagement with horror theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

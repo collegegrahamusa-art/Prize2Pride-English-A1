@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0009_REG_expert_GENRE_business",
+  "original_lesson_id": "B1_0009",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "expert",
+  "language_register_name": "Expert/Academic",
+  "genre_theme": "business",
+  "genre_theme_name": "Business/Corporate",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Family and Relationships",
+  "augmented_topic": "Family and Relationships (Business/Corporate Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Academic vocabulary",
+    "Technical terminology",
+    "Complex sentence structures",
+    "Theoretical frameworks",
+    "Scholarly tone"
+  ],
+  "register_example_phrases": [
+    "What is your assessment?",
+    "That demonstrates excellence",
+    "I posit that",
+    "Could you substantiate?",
+    "Please elucidate further"
+  ],
+  "genre_vocabulary": [
+    "strategy",
+    "negotiation",
+    "stakeholder",
+    "synergy",
+    "leverage",
+    "optimize"
+  ],
+  "genre_scenario_twist": "corporate or business challenge",
+  "genre_tone": "professional, strategic, goal-oriented",
+  "objectives": [
+    "Students will discuss family and relationships using Expert/Academic register language",
+    "Students will engage with Business/Corporate themed scenarios related to family and relationships",
+    "Students will demonstrate appropriate use of expert level vocabulary and expressions",
+    "Students will create dialogues combining family and relationships content with Business/Corporate narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Business/Corporate Scenario Introduction",
+    "register": "Expert/Academic",
+    "description": "Students explore family and relationships through a Business/Corporate lens using Expert/Academic language",
+    "scenario": "Imagine a corporate or business challenge involving family and relationships",
+    "tone": "professional, strategic, goal-oriented",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Business/Corporate Vocabulary Building",
+      "description": "Students learn and practice expert register vocabulary related to family and relationships in a business context",
+      "genre_element": "corporate or business challenge",
+      "register_focus": "Expert/Academic",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Business/Corporate Role-Play",
+      "description": "Students engage in business themed role-play about family and relationships using expert register",
+      "genre_element": "professional, strategic, goal-oriented",
+      "register_focus": "Expert/Academic",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Business/Corporate Creative Production",
+      "description": "Students create original business themed content about family and relationships in expert register",
+      "genre_element": "narrative creation",
+      "register_focus": "Expert/Academic",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe family and relationships in a Business/Corporate scenario?",
+    "What strategy or negotiation might be involved in family and relationships?",
+    "Can you create a Business/Corporate story about family and relationships?",
+    "How does family and relationships change when viewed through a Business/Corporate perspective?",
+    "What expert register expressions would you use to discuss this business scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Business/Corporate situation involving family and relationships",
+      "register": "Expert/Academic",
+      "genre_twist": "corporate or business challenge",
+      "roles": [
+        "Character A: Using expert register in business context",
+        "Character B: Responding in expert register within business theme"
+      ],
+      "tone": "professional, strategic, goal-oriented",
+      "vocabulary_focus": [
+        "strategy",
+        "negotiation",
+        "stakeholder"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "What is your assessment?",
+    "positive_reaction": "That demonstrates excellence",
+    "agreement": "I posit that",
+    "question": "Could you substantiate?",
+    "closing": "Please elucidate further"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "strategy",
+      "negotiation",
+      "stakeholder",
+      "synergy",
+      "leverage",
+      "optimize"
+    ],
+    "topic_genre_blend": [
+      "family and relationships with strategy",
+      "family and relationships with negotiation",
+      "family and relationships with stakeholder"
+    ],
+    "narrative_elements": [
+      "Business/Corporate scenario",
+      "professional, strategic, goal-oriented atmosphere",
+      "corporate or business challenge"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Expert/Academic throughout: Scholarly, technical, high-level discourse",
+    "genre_guidance": "Frame all content with Business/Corporate theme: Professional scenarios, workplace situations",
+    "tone": "professional, strategic, goal-oriented",
+    "key_vocabulary": [
+      "strategy",
+      "negotiation",
+      "stakeholder",
+      "synergy",
+      "leverage",
+      "optimize"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Expert/Academic register",
+    "genre_focus": "Students engage with Business/Corporate themed content",
+    "criteria": [
+      "Appropriate use of expert register language",
+      "Engagement with business theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

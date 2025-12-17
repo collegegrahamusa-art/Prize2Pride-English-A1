@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0007_REG_informal_GENRE_horror",
+  "original_lesson_id": "B1_0007",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "informal",
+  "language_register_name": "Informal/Conversational",
+  "genre_theme": "horror",
+  "genre_theme_name": "Horror",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Work and Career",
+  "augmented_topic": "Work and Career (Horror Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Common contractions (I'm, you're, it's)",
+    "Simple vocabulary",
+    "Personal pronouns",
+    "Conversational expressions",
+    "Relaxed grammar"
+  ],
+  "register_example_phrases": [
+    "How's it going?",
+    "That's great!",
+    "I think so",
+    "Really?",
+    "Take it easy"
+  ],
+  "genre_vocabulary": [
+    "terror",
+    "darkness",
+    "mysterious",
+    "haunting",
+    "eerie",
+    "sinister"
+  ],
+  "genre_scenario_twist": "frightening or supernatural situation",
+  "genre_tone": "suspenseful, dark, unsettling",
+  "objectives": [
+    "Students will discuss work and career using Informal/Conversational register language",
+    "Students will engage with Horror themed scenarios related to work and career",
+    "Students will demonstrate appropriate use of informal level vocabulary and expressions",
+    "Students will create dialogues combining work and career content with Horror narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Horror Scenario Introduction",
+    "register": "Informal/Conversational",
+    "description": "Students explore work and career through a Horror lens using Informal/Conversational language",
+    "scenario": "Imagine a frightening or supernatural situation involving work and career",
+    "tone": "suspenseful, dark, unsettling",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Horror Vocabulary Building",
+      "description": "Students learn and practice informal register vocabulary related to work and career in a horror context",
+      "genre_element": "frightening or supernatural situation",
+      "register_focus": "Informal/Conversational",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Horror Role-Play",
+      "description": "Students engage in horror themed role-play about work and career using informal register",
+      "genre_element": "suspenseful, dark, unsettling",
+      "register_focus": "Informal/Conversational",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Horror Creative Production",
+      "description": "Students create original horror themed content about work and career in informal register",
+      "genre_element": "narrative creation",
+      "register_focus": "Informal/Conversational",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe work and career in a Horror scenario?",
+    "What terror or darkness might be involved in work and career?",
+    "Can you create a Horror story about work and career?",
+    "How does work and career change when viewed through a Horror perspective?",
+    "What informal register expressions would you use to discuss this horror scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Horror situation involving work and career",
+      "register": "Informal/Conversational",
+      "genre_twist": "frightening or supernatural situation",
+      "roles": [
+        "Character A: Using informal register in horror context",
+        "Character B: Responding in informal register within horror theme"
+      ],
+      "tone": "suspenseful, dark, unsettling",
+      "vocabulary_focus": [
+        "terror",
+        "darkness",
+        "mysterious"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How's it going?",
+    "positive_reaction": "That's great!",
+    "agreement": "I think so",
+    "question": "Really?",
+    "closing": "Take it easy"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "terror",
+      "darkness",
+      "mysterious",
+      "haunting",
+      "eerie",
+      "sinister"
+    ],
+    "topic_genre_blend": [
+      "work and career with terror",
+      "work and career with darkness",
+      "work and career with mysterious"
+    ],
+    "narrative_elements": [
+      "Horror scenario",
+      "suspenseful, dark, unsettling atmosphere",
+      "frightening or supernatural situation"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Informal/Conversational throughout: Friendly, relaxed everyday speech",
+    "genre_guidance": "Frame all content with Horror theme: Fear, suspense, supernatural elements",
+    "tone": "suspenseful, dark, unsettling",
+    "key_vocabulary": [
+      "terror",
+      "darkness",
+      "mysterious",
+      "haunting",
+      "eerie",
+      "sinister"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Informal/Conversational register",
+    "genre_focus": "Students engage with Horror themed content",
+    "criteria": [
+      "Appropriate use of informal register language",
+      "Engagement with horror theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

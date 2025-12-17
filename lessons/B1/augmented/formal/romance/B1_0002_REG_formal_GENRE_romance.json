@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0002_REG_formal_GENRE_romance",
+  "original_lesson_id": "B1_0002",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "formal",
+  "language_register_name": "Formal/Business",
+  "genre_theme": "romance",
+  "genre_theme_name": "Romance",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Travel and Tourism",
+  "augmented_topic": "Travel and Tourism (Romance Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "No contractions",
+    "Formal vocabulary",
+    "Complete sentences",
+    "Professional expressions",
+    "Polite and respectful"
+  ],
+  "register_example_phrases": [
+    "How do you do?",
+    "That is commendable",
+    "I concur",
+    "Would you confirm?",
+    "Kindly continue"
+  ],
+  "genre_vocabulary": [
+    "heart",
+    "passion",
+    "affection",
+    "devotion",
+    "chemistry",
+    "attraction"
+  ],
+  "genre_scenario_twist": "romantic encounter or relationship development",
+  "genre_tone": "emotional, heartfelt, intimate",
+  "objectives": [
+    "Students will discuss travel and tourism using Formal/Business register language",
+    "Students will engage with Romance themed scenarios related to travel and tourism",
+    "Students will demonstrate appropriate use of formal level vocabulary and expressions",
+    "Students will create dialogues combining travel and tourism content with Romance narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Romance Scenario Introduction",
+    "register": "Formal/Business",
+    "description": "Students explore travel and tourism through a Romance lens using Formal/Business language",
+    "scenario": "Imagine a romantic encounter or relationship development involving travel and tourism",
+    "tone": "emotional, heartfelt, intimate",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Romance Vocabulary Building",
+      "description": "Students learn and practice formal register vocabulary related to travel and tourism in a romance context",
+      "genre_element": "romantic encounter or relationship development",
+      "register_focus": "Formal/Business",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Romance Role-Play",
+      "description": "Students engage in romance themed role-play about travel and tourism using formal register",
+      "genre_element": "emotional, heartfelt, intimate",
+      "register_focus": "Formal/Business",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Romance Creative Production",
+      "description": "Students create original romance themed content about travel and tourism in formal register",
+      "genre_element": "narrative creation",
+      "register_focus": "Formal/Business",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe travel and tourism in a Romance scenario?",
+    "What heart or passion might be involved in travel and tourism?",
+    "Can you create a Romance story about travel and tourism?",
+    "How does travel and tourism change when viewed through a Romance perspective?",
+    "What formal register expressions would you use to discuss this romance scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Romance situation involving travel and tourism",
+      "register": "Formal/Business",
+      "genre_twist": "romantic encounter or relationship development",
+      "roles": [
+        "Character A: Using formal register in romance context",
+        "Character B: Responding in formal register within romance theme"
+      ],
+      "tone": "emotional, heartfelt, intimate",
+      "vocabulary_focus": [
+        "heart",
+        "passion",
+        "affection"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How do you do?",
+    "positive_reaction": "That is commendable",
+    "agreement": "I concur",
+    "question": "Would you confirm?",
+    "closing": "Kindly continue"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "heart",
+      "passion",
+      "affection",
+      "devotion",
+      "chemistry",
+      "attraction"
+    ],
+    "topic_genre_blend": [
+      "travel and tourism with heart",
+      "travel and tourism with passion",
+      "travel and tourism with affection"
+    ],
+    "narrative_elements": [
+      "Romance scenario",
+      "emotional, heartfelt, intimate atmosphere",
+      "romantic encounter or relationship development"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Formal/Business throughout: Professional, business-appropriate language",
+    "genre_guidance": "Frame all content with Romance theme: Love, relationships, emotional connections",
+    "tone": "emotional, heartfelt, intimate",
+    "key_vocabulary": [
+      "heart",
+      "passion",
+      "affection",
+      "devotion",
+      "chemistry",
+      "attraction"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Formal/Business register",
+    "genre_focus": "Students engage with Romance themed content",
+    "criteria": [
+      "Appropriate use of formal register language",
+      "Engagement with romance theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0006_REG_formal_GENRE_comedy",
+  "original_lesson_id": "B1_0006",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "formal",
+  "language_register_name": "Formal/Business",
+  "genre_theme": "comedy",
+  "genre_theme_name": "Comedy",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Health and Fitness",
+  "augmented_topic": "Health and Fitness (Comedy Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "No contractions",
+    "Formal vocabulary",
+    "Complete sentences",
+    "Professional expressions",
+    "Polite and respectful"
+  ],
+  "register_example_phrases": [
+    "How do you do?",
+    "That is commendable",
+    "I concur",
+    "Would you confirm?",
+    "Kindly continue"
+  ],
+  "genre_vocabulary": [
+    "hilarious",
+    "amusing",
+    "ridiculous",
+    "witty",
+    "absurd",
+    "comical"
+  ],
+  "genre_scenario_twist": "humorous misunderstanding or funny situation",
+  "genre_tone": "lighthearted, funny, entertaining",
+  "objectives": [
+    "Students will discuss health and fitness using Formal/Business register language",
+    "Students will engage with Comedy themed scenarios related to health and fitness",
+    "Students will demonstrate appropriate use of formal level vocabulary and expressions",
+    "Students will create dialogues combining health and fitness content with Comedy narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Comedy Scenario Introduction",
+    "register": "Formal/Business",
+    "description": "Students explore health and fitness through a Comedy lens using Formal/Business language",
+    "scenario": "Imagine a humorous misunderstanding or funny situation involving health and fitness",
+    "tone": "lighthearted, funny, entertaining",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Comedy Vocabulary Building",
+      "description": "Students learn and practice formal register vocabulary related to health and fitness in a comedy context",
+      "genre_element": "humorous misunderstanding or funny situation",
+      "register_focus": "Formal/Business",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Comedy Role-Play",
+      "description": "Students engage in comedy themed role-play about health and fitness using formal register",
+      "genre_element": "lighthearted, funny, entertaining",
+      "register_focus": "Formal/Business",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Comedy Creative Production",
+      "description": "Students create original comedy themed content about health and fitness in formal register",
+      "genre_element": "narrative creation",
+      "register_focus": "Formal/Business",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe health and fitness in a Comedy scenario?",
+    "What hilarious or amusing might be involved in health and fitness?",
+    "Can you create a Comedy story about health and fitness?",
+    "How does health and fitness change when viewed through a Comedy perspective?",
+    "What formal register expressions would you use to discuss this comedy scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Comedy situation involving health and fitness",
+      "register": "Formal/Business",
+      "genre_twist": "humorous misunderstanding or funny situation",
+      "roles": [
+        "Character A: Using formal register in comedy context",
+        "Character B: Responding in formal register within comedy theme"
+      ],
+      "tone": "lighthearted, funny, entertaining",
+      "vocabulary_focus": [
+        "hilarious",
+        "amusing",
+        "ridiculous"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How do you do?",
+    "positive_reaction": "That is commendable",
+    "agreement": "I concur",
+    "question": "Would you confirm?",
+    "closing": "Kindly continue"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "hilarious",
+      "amusing",
+      "ridiculous",
+      "witty",
+      "absurd",
+      "comical"
+    ],
+    "topic_genre_blend": [
+      "health and fitness with hilarious",
+      "health and fitness with amusing",
+      "health and fitness with ridiculous"
+    ],
+    "narrative_elements": [
+      "Comedy scenario",
+      "lighthearted, funny, entertaining atmosphere",
+      "humorous misunderstanding or funny situation"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Formal/Business throughout: Professional, business-appropriate language",
+    "genre_guidance": "Frame all content with Comedy theme: Humor, wit, funny situations",
+    "tone": "lighthearted, funny, entertaining",
+    "key_vocabulary": [
+      "hilarious",
+      "amusing",
+      "ridiculous",
+      "witty",
+      "absurd",
+      "comical"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Formal/Business register",
+    "genre_focus": "Students engage with Comedy themed content",
+    "criteria": [
+      "Appropriate use of formal register language",
+      "Engagement with comedy theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

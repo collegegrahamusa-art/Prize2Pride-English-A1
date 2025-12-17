@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0010_REG_neutral_GENRE_romance",
+  "original_lesson_id": "B1_0010",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "neutral",
+  "language_register_name": "Neutral/Standard",
+  "genre_theme": "romance",
+  "genre_theme_name": "Romance",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Technology in Daily Life",
+  "augmented_topic": "Technology in Daily Life (Romance Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Clear and direct",
+    "Standard grammar",
+    "Professional vocabulary",
+    "Balanced tone",
+    "Appropriate for most contexts"
+  ],
+  "register_example_phrases": [
+    "How are you?",
+    "That's excellent",
+    "I believe so",
+    "Is that correct?",
+    "Please proceed"
+  ],
+  "genre_vocabulary": [
+    "heart",
+    "passion",
+    "affection",
+    "devotion",
+    "chemistry",
+    "attraction"
+  ],
+  "genre_scenario_twist": "romantic encounter or relationship development",
+  "genre_tone": "emotional, heartfelt, intimate",
+  "objectives": [
+    "Students will discuss technology in daily life using Neutral/Standard register language",
+    "Students will engage with Romance themed scenarios related to technology in daily life",
+    "Students will demonstrate appropriate use of neutral level vocabulary and expressions",
+    "Students will create dialogues combining technology in daily life content with Romance narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Romance Scenario Introduction",
+    "register": "Neutral/Standard",
+    "description": "Students explore technology in daily life through a Romance lens using Neutral/Standard language",
+    "scenario": "Imagine a romantic encounter or relationship development involving technology in daily life",
+    "tone": "emotional, heartfelt, intimate",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Romance Vocabulary Building",
+      "description": "Students learn and practice neutral register vocabulary related to technology in daily life in a romance context",
+      "genre_element": "romantic encounter or relationship development",
+      "register_focus": "Neutral/Standard",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Romance Role-Play",
+      "description": "Students engage in romance themed role-play about technology in daily life using neutral register",
+      "genre_element": "emotional, heartfelt, intimate",
+      "register_focus": "Neutral/Standard",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Romance Creative Production",
+      "description": "Students create original romance themed content about technology in daily life in neutral register",
+      "genre_element": "narrative creation",
+      "register_focus": "Neutral/Standard",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe technology in daily life in a Romance scenario?",
+    "What heart or passion might be involved in technology in daily life?",
+    "Can you create a Romance story about technology in daily life?",
+    "How does technology in daily life change when viewed through a Romance perspective?",
+    "What neutral register expressions would you use to discuss this romance scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Romance situation involving technology in daily life",
+      "register": "Neutral/Standard",
+      "genre_twist": "romantic encounter or relationship development",
+      "roles": [
+        "Character A: Using neutral register in romance context",
+        "Character B: Responding in neutral register within romance theme"
+      ],
+      "tone": "emotional, heartfelt, intimate",
+      "vocabulary_focus": [
+        "heart",
+        "passion",
+        "affection"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How are you?",
+    "positive_reaction": "That's excellent",
+    "agreement": "I believe so",
+    "question": "Is that correct?",
+    "closing": "Please proceed"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "heart",
+      "passion",
+      "affection",
+      "devotion",
+      "chemistry",
+      "attraction"
+    ],
+    "topic_genre_blend": [
+      "technology in daily life with heart",
+      "technology in daily life with passion",
+      "technology in daily life with affection"
+    ],
+    "narrative_elements": [
+      "Romance scenario",
+      "emotional, heartfelt, intimate atmosphere",
+      "romantic encounter or relationship development"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Neutral/Standard throughout: Standard professional communication",
+    "genre_guidance": "Frame all content with Romance theme: Love, relationships, emotional connections",
+    "tone": "emotional, heartfelt, intimate",
+    "key_vocabulary": [
+      "heart",
+      "passion",
+      "affection",
+      "devotion",
+      "chemistry",
+      "attraction"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Neutral/Standard register",
+    "genre_focus": "Students engage with Romance themed content",
+    "criteria": [
+      "Appropriate use of neutral register language",
+      "Engagement with romance theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

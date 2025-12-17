@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0008_REG_neutral_GENRE_sports",
+  "original_lesson_id": "B1_0008",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "neutral",
+  "language_register_name": "Neutral/Standard",
+  "genre_theme": "sports",
+  "genre_theme_name": "Sports/Competition",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Education and Learning",
+  "augmented_topic": "Education and Learning (Sports/Competition Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Clear and direct",
+    "Standard grammar",
+    "Professional vocabulary",
+    "Balanced tone",
+    "Appropriate for most contexts"
+  ],
+  "register_example_phrases": [
+    "How are you?",
+    "That's excellent",
+    "I believe so",
+    "Is that correct?",
+    "Please proceed"
+  ],
+  "genre_vocabulary": [
+    "competition",
+    "victory",
+    "training",
+    "championship",
+    "teamwork",
+    "performance"
+  ],
+  "genre_scenario_twist": "competitive sports scenario",
+  "genre_tone": "energetic, competitive, motivational",
+  "objectives": [
+    "Students will discuss education and learning using Neutral/Standard register language",
+    "Students will engage with Sports/Competition themed scenarios related to education and learning",
+    "Students will demonstrate appropriate use of neutral level vocabulary and expressions",
+    "Students will create dialogues combining education and learning content with Sports/Competition narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Sports/Competition Scenario Introduction",
+    "register": "Neutral/Standard",
+    "description": "Students explore education and learning through a Sports/Competition lens using Neutral/Standard language",
+    "scenario": "Imagine a competitive sports scenario involving education and learning",
+    "tone": "energetic, competitive, motivational",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Sports/Competition Vocabulary Building",
+      "description": "Students learn and practice neutral register vocabulary related to education and learning in a sports context",
+      "genre_element": "competitive sports scenario",
+      "register_focus": "Neutral/Standard",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Sports/Competition Role-Play",
+      "description": "Students engage in sports themed role-play about education and learning using neutral register",
+      "genre_element": "energetic, competitive, motivational",
+      "register_focus": "Neutral/Standard",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Sports/Competition Creative Production",
+      "description": "Students create original sports themed content about education and learning in neutral register",
+      "genre_element": "narrative creation",
+      "register_focus": "Neutral/Standard",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe education and learning in a Sports/Competition scenario?",
+    "What competition or victory might be involved in education and learning?",
+    "Can you create a Sports/Competition story about education and learning?",
+    "How does education and learning change when viewed through a Sports/Competition perspective?",
+    "What neutral register expressions would you use to discuss this sports scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Sports/Competition situation involving education and learning",
+      "register": "Neutral/Standard",
+      "genre_twist": "competitive sports scenario",
+      "roles": [
+        "Character A: Using neutral register in sports context",
+        "Character B: Responding in neutral register within sports theme"
+      ],
+      "tone": "energetic, competitive, motivational",
+      "vocabulary_focus": [
+        "competition",
+        "victory",
+        "training"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How are you?",
+    "positive_reaction": "That's excellent",
+    "agreement": "I believe so",
+    "question": "Is that correct?",
+    "closing": "Please proceed"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "competition",
+      "victory",
+      "training",
+      "championship",
+      "teamwork",
+      "performance"
+    ],
+    "topic_genre_blend": [
+      "education and learning with competition",
+      "education and learning with victory",
+      "education and learning with training"
+    ],
+    "narrative_elements": [
+      "Sports/Competition scenario",
+      "energetic, competitive, motivational atmosphere",
+      "competitive sports scenario"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Neutral/Standard throughout: Standard professional communication",
+    "genre_guidance": "Frame all content with Sports/Competition theme: Athletic challenges, competition, teamwork",
+    "tone": "energetic, competitive, motivational",
+    "key_vocabulary": [
+      "competition",
+      "victory",
+      "training",
+      "championship",
+      "teamwork",
+      "performance"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Neutral/Standard register",
+    "genre_focus": "Students engage with Sports/Competition themed content",
+    "criteria": [
+      "Appropriate use of neutral register language",
+      "Engagement with sports theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

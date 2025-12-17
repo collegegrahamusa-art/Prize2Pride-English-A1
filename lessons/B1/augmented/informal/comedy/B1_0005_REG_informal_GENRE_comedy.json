@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0005_REG_informal_GENRE_comedy",
+  "original_lesson_id": "B1_0005",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "informal",
+  "language_register_name": "Informal/Conversational",
+  "genre_theme": "comedy",
+  "genre_theme_name": "Comedy",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Shopping and Consumer Behavior",
+  "augmented_topic": "Shopping and Consumer Behavior (Comedy Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Common contractions (I'm, you're, it's)",
+    "Simple vocabulary",
+    "Personal pronouns",
+    "Conversational expressions",
+    "Relaxed grammar"
+  ],
+  "register_example_phrases": [
+    "How's it going?",
+    "That's great!",
+    "I think so",
+    "Really?",
+    "Take it easy"
+  ],
+  "genre_vocabulary": [
+    "hilarious",
+    "amusing",
+    "ridiculous",
+    "witty",
+    "absurd",
+    "comical"
+  ],
+  "genre_scenario_twist": "humorous misunderstanding or funny situation",
+  "genre_tone": "lighthearted, funny, entertaining",
+  "objectives": [
+    "Students will discuss shopping and consumer behavior using Informal/Conversational register language",
+    "Students will engage with Comedy themed scenarios related to shopping and consumer behavior",
+    "Students will demonstrate appropriate use of informal level vocabulary and expressions",
+    "Students will create dialogues combining shopping and consumer behavior content with Comedy narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Comedy Scenario Introduction",
+    "register": "Informal/Conversational",
+    "description": "Students explore shopping and consumer behavior through a Comedy lens using Informal/Conversational language",
+    "scenario": "Imagine a humorous misunderstanding or funny situation involving shopping and consumer behavior",
+    "tone": "lighthearted, funny, entertaining",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Comedy Vocabulary Building",
+      "description": "Students learn and practice informal register vocabulary related to shopping and consumer behavior in a comedy context",
+      "genre_element": "humorous misunderstanding or funny situation",
+      "register_focus": "Informal/Conversational",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Comedy Role-Play",
+      "description": "Students engage in comedy themed role-play about shopping and consumer behavior using informal register",
+      "genre_element": "lighthearted, funny, entertaining",
+      "register_focus": "Informal/Conversational",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Comedy Creative Production",
+      "description": "Students create original comedy themed content about shopping and consumer behavior in informal register",
+      "genre_element": "narrative creation",
+      "register_focus": "Informal/Conversational",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe shopping and consumer behavior in a Comedy scenario?",
+    "What hilarious or amusing might be involved in shopping and consumer behavior?",
+    "Can you create a Comedy story about shopping and consumer behavior?",
+    "How does shopping and consumer behavior change when viewed through a Comedy perspective?",
+    "What informal register expressions would you use to discuss this comedy scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Comedy situation involving shopping and consumer behavior",
+      "register": "Informal/Conversational",
+      "genre_twist": "humorous misunderstanding or funny situation",
+      "roles": [
+        "Character A: Using informal register in comedy context",
+        "Character B: Responding in informal register within comedy theme"
+      ],
+      "tone": "lighthearted, funny, entertaining",
+      "vocabulary_focus": [
+        "hilarious",
+        "amusing",
+        "ridiculous"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How's it going?",
+    "positive_reaction": "That's great!",
+    "agreement": "I think so",
+    "question": "Really?",
+    "closing": "Take it easy"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "hilarious",
+      "amusing",
+      "ridiculous",
+      "witty",
+      "absurd",
+      "comical"
+    ],
+    "topic_genre_blend": [
+      "shopping and consumer behavior with hilarious",
+      "shopping and consumer behavior with amusing",
+      "shopping and consumer behavior with ridiculous"
+    ],
+    "narrative_elements": [
+      "Comedy scenario",
+      "lighthearted, funny, entertaining atmosphere",
+      "humorous misunderstanding or funny situation"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Informal/Conversational throughout: Friendly, relaxed everyday speech",
+    "genre_guidance": "Frame all content with Comedy theme: Humor, wit, funny situations",
+    "tone": "lighthearted, funny, entertaining",
+    "key_vocabulary": [
+      "hilarious",
+      "amusing",
+      "ridiculous",
+      "witty",
+      "absurd",
+      "comical"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Informal/Conversational register",
+    "genre_focus": "Students engage with Comedy themed content",
+    "criteria": [
+      "Appropriate use of informal register language",
+      "Engagement with comedy theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

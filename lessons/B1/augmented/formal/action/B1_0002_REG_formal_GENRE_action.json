@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0002_REG_formal_GENRE_action",
+  "original_lesson_id": "B1_0002",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "formal",
+  "language_register_name": "Formal/Business",
+  "genre_theme": "action",
+  "genre_theme_name": "Action/Adventure",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Travel and Tourism",
+  "augmented_topic": "Travel and Tourism (Action/Adventure Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "No contractions",
+    "Formal vocabulary",
+    "Complete sentences",
+    "Professional expressions",
+    "Polite and respectful"
+  ],
+  "register_example_phrases": [
+    "How do you do?",
+    "That is commendable",
+    "I concur",
+    "Would you confirm?",
+    "Kindly continue"
+  ],
+  "genre_vocabulary": [
+    "chase",
+    "pursuit",
+    "danger",
+    "adrenaline",
+    "mission",
+    "explosive"
+  ],
+  "genre_scenario_twist": "high-stakes action sequence",
+  "genre_tone": "fast-paced, energetic, thrilling",
+  "objectives": [
+    "Students will discuss travel and tourism using Formal/Business register language",
+    "Students will engage with Action/Adventure themed scenarios related to travel and tourism",
+    "Students will demonstrate appropriate use of formal level vocabulary and expressions",
+    "Students will create dialogues combining travel and tourism content with Action/Adventure narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Action/Adventure Scenario Introduction",
+    "register": "Formal/Business",
+    "description": "Students explore travel and tourism through a Action/Adventure lens using Formal/Business language",
+    "scenario": "Imagine a high-stakes action sequence involving travel and tourism",
+    "tone": "fast-paced, energetic, thrilling",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Action/Adventure Vocabulary Building",
+      "description": "Students learn and practice formal register vocabulary related to travel and tourism in a action context",
+      "genre_element": "high-stakes action sequence",
+      "register_focus": "Formal/Business",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Action/Adventure Role-Play",
+      "description": "Students engage in action themed role-play about travel and tourism using formal register",
+      "genre_element": "fast-paced, energetic, thrilling",
+      "register_focus": "Formal/Business",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Action/Adventure Creative Production",
+      "description": "Students create original action themed content about travel and tourism in formal register",
+      "genre_element": "narrative creation",
+      "register_focus": "Formal/Business",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe travel and tourism in a Action/Adventure scenario?",
+    "What chase or pursuit might be involved in travel and tourism?",
+    "Can you create a Action/Adventure story about travel and tourism?",
+    "How does travel and tourism change when viewed through a Action/Adventure perspective?",
+    "What formal register expressions would you use to discuss this action scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Action/Adventure situation involving travel and tourism",
+      "register": "Formal/Business",
+      "genre_twist": "high-stakes action sequence",
+      "roles": [
+        "Character A: Using formal register in action context",
+        "Character B: Responding in formal register within action theme"
+      ],
+      "tone": "fast-paced, energetic, thrilling",
+      "vocabulary_focus": [
+        "chase",
+        "pursuit",
+        "danger"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How do you do?",
+    "positive_reaction": "That is commendable",
+    "agreement": "I concur",
+    "question": "Would you confirm?",
+    "closing": "Kindly continue"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "chase",
+      "pursuit",
+      "danger",
+      "adrenaline",
+      "mission",
+      "explosive"
+    ],
+    "topic_genre_blend": [
+      "travel and tourism with chase",
+      "travel and tourism with pursuit",
+      "travel and tourism with danger"
+    ],
+    "narrative_elements": [
+      "Action/Adventure scenario",
+      "fast-paced, energetic, thrilling atmosphere",
+      "high-stakes action sequence"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Formal/Business throughout: Professional, business-appropriate language",
+    "genre_guidance": "Frame all content with Action/Adventure theme: High energy, excitement, physical challenges",
+    "tone": "fast-paced, energetic, thrilling",
+    "key_vocabulary": [
+      "chase",
+      "pursuit",
+      "danger",
+      "adrenaline",
+      "mission",
+      "explosive"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Formal/Business register",
+    "genre_focus": "Students engage with Action/Adventure themed content",
+    "criteria": [
+      "Appropriate use of formal register language",
+      "Engagement with action theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0007_REG_slang_GENRE_fantasy",
+  "original_lesson_id": "B1_0007",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "slang",
+  "language_register_name": "Slang/Street",
+  "genre_theme": "fantasy",
+  "genre_theme_name": "Fantasy",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Work and Career",
+  "augmented_topic": "Work and Career (Fantasy Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Contractions everywhere (gonna, wanna, ain't)",
+    "Slang terms and expressions",
+    "Informal grammar",
+    "Shortened words",
+    "Very casual tone"
+  ],
+  "register_example_phrases": [
+    "What's up?",
+    "That's dope!",
+    "No cap",
+    "For real?",
+    "Chill out"
+  ],
+  "genre_vocabulary": [
+    "magical",
+    "enchanted",
+    "mystical",
+    "legendary",
+    "mythical",
+    "supernatural"
+  ],
+  "genre_scenario_twist": "magical or fantastical situation",
+  "genre_tone": "imaginative, wondrous, epic",
+  "objectives": [
+    "Students will discuss work and career using Slang/Street register language",
+    "Students will engage with Fantasy themed scenarios related to work and career",
+    "Students will demonstrate appropriate use of slang level vocabulary and expressions",
+    "Students will create dialogues combining work and career content with Fantasy narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Fantasy Scenario Introduction",
+    "register": "Slang/Street",
+    "description": "Students explore work and career through a Fantasy lens using Slang/Street language",
+    "scenario": "Imagine a magical or fantastical situation involving work and career",
+    "tone": "imaginative, wondrous, epic",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Fantasy Vocabulary Building",
+      "description": "Students learn and practice slang register vocabulary related to work and career in a fantasy context",
+      "genre_element": "magical or fantastical situation",
+      "register_focus": "Slang/Street",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Fantasy Role-Play",
+      "description": "Students engage in fantasy themed role-play about work and career using slang register",
+      "genre_element": "imaginative, wondrous, epic",
+      "register_focus": "Slang/Street",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Fantasy Creative Production",
+      "description": "Students create original fantasy themed content about work and career in slang register",
+      "genre_element": "narrative creation",
+      "register_focus": "Slang/Street",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe work and career in a Fantasy scenario?",
+    "What magical or enchanted might be involved in work and career?",
+    "Can you create a Fantasy story about work and career?",
+    "How does work and career change when viewed through a Fantasy perspective?",
+    "What slang register expressions would you use to discuss this fantasy scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Fantasy situation involving work and career",
+      "register": "Slang/Street",
+      "genre_twist": "magical or fantastical situation",
+      "roles": [
+        "Character A: Using slang register in fantasy context",
+        "Character B: Responding in slang register within fantasy theme"
+      ],
+      "tone": "imaginative, wondrous, epic",
+      "vocabulary_focus": [
+        "magical",
+        "enchanted",
+        "mystical"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "What's up?",
+    "positive_reaction": "That's dope!",
+    "agreement": "No cap",
+    "question": "For real?",
+    "closing": "Chill out"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "magical",
+      "enchanted",
+      "mystical",
+      "legendary",
+      "mythical",
+      "supernatural"
+    ],
+    "topic_genre_blend": [
+      "work and career with magical",
+      "work and career with enchanted",
+      "work and career with mystical"
+    ],
+    "narrative_elements": [
+      "Fantasy scenario",
+      "imaginative, wondrous, epic atmosphere",
+      "magical or fantastical situation"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Slang/Street throughout: Casual street language, colloquialisms, youth speak",
+    "genre_guidance": "Frame all content with Fantasy theme: Magic, mythical creatures, imaginary worlds",
+    "tone": "imaginative, wondrous, epic",
+    "key_vocabulary": [
+      "magical",
+      "enchanted",
+      "mystical",
+      "legendary",
+      "mythical",
+      "supernatural"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Slang/Street register",
+    "genre_focus": "Students engage with Fantasy themed content",
+    "criteria": [
+      "Appropriate use of slang register language",
+      "Engagement with fantasy theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

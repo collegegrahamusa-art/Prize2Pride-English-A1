@@ -1,0 +1,208 @@
+# Work and Career (Fantasy Theme)
+
+**Original Topic:** Work and Career  
+**Language Register:** Slang/Street  
+**Genre Theme:** Fantasy  
+**Level:** B1 - Intermediate  
+**Lesson ID:** B1_0007_REG_slang_GENRE_fantasy  
+**Duration:** 45-60 minutes
+
+---
+
+## 🎭 Augmentation Details
+
+### Language Register: Slang/Street
+**Description:** Casual street language, colloquialisms, youth speak
+
+**Characteristics:**
+- Contractions everywhere (gonna, wanna, ain't)
+- Slang terms and expressions
+- Informal grammar
+- Shortened words
+- Very casual tone
+
+**Example Phrases:**
+- 'What's up?'
+- 'That's dope!'
+- 'No cap'
+- 'For real?'
+- 'Chill out'
+
+### Genre Theme: Fantasy
+**Description:** Magic, mythical creatures, imaginary worlds
+
+**Tone:** imaginative, wondrous, epic  
+**Scenario Twist:** magical or fantastical situation
+
+**Key Vocabulary:**
+- magical
+- enchanted
+- mystical
+- legendary
+- mythical
+- supernatural
+
+---
+
+## 📚 Learning Objectives
+
+- Students will discuss work and career using Slang/Street register language
+- Students will engage with Fantasy themed scenarios related to work and career
+- Students will demonstrate appropriate use of slang level vocabulary and expressions
+- Students will create dialogues combining work and career content with Fantasy narrative elements
+
+---
+
+## 🎬 Warm-Up Activity
+
+**Activity:** Fantasy Scenario Introduction  
+**Register:** Slang/Street  
+**Tone:** imaginative, wondrous, epic  
+**Time:** 5-10 minutes
+
+**Description:** Students explore work and career through a Fantasy lens using Slang/Street language
+
+**Scenario:** Imagine a magical or fantastical situation involving work and career
+
+---
+
+## 🎯 Main Activities
+
+
+### Activity 1: Fantasy Vocabulary Building
+
+- **Description:** Students learn and practice slang register vocabulary related to work and career in a fantasy context
+- **Genre Element:** magical or fantastical situation
+- **Register Focus:** Slang/Street
+- **Time:** 15 minutes
+
+
+### Activity 2: Fantasy Role-Play
+
+- **Description:** Students engage in fantasy themed role-play about work and career using slang register
+- **Genre Element:** imaginative, wondrous, epic
+- **Register Focus:** Slang/Street
+- **Time:** 20 minutes
+
+
+### Activity 3: Fantasy Creative Production
+
+- **Description:** Students create original fantasy themed content about work and career in slang register
+- **Genre Element:** narrative creation
+- **Register Focus:** Slang/Street
+- **Time:** 15 minutes
+
+
+---
+
+## 💬 Discussion Questions
+
+1. How would you describe work and career in a Fantasy scenario?
+2. What magical or enchanted might be involved in work and career?
+3. Can you create a Fantasy story about work and career?
+4. How does work and career change when viewed through a Fantasy perspective?
+5. What slang register expressions would you use to discuss this fantasy scenario?
+
+---
+
+## 🎭 Role-Play Scenarios
+
+
+### Scenario 1: Fantasy situation involving work and career
+
+**Register:** Slang/Street  
+**Genre Twist:** magical or fantastical situation  
+**Tone:** imaginative, wondrous, epic
+
+**Roles:**
+- Character A: Using slang register in fantasy context
+- Character B: Responding in slang register within fantasy theme
+
+**Vocabulary Focus:**
+- magical
+- enchanted
+- mystical
+
+---
+
+## 📝 Useful Expressions
+
+- **Greeting:** 'What's up?'
+- **Positive Reaction:** 'That's dope!'
+- **Agreement:** 'No cap'
+- **Question:** 'For real?'
+- **Closing:** 'Chill out'
+
+---
+
+## 🎨 Genre Vocabulary
+
+
+### Core Genre Terms
+
+- magical
+- enchanted
+- mystical
+- legendary
+- mythical
+- supernatural
+
+### Topic Genre Blend
+
+- work and career with magical
+- work and career with enchanted
+- work and career with mystical
+
+### Narrative Elements
+
+- Fantasy scenario
+- imaginative, wondrous, epic atmosphere
+- magical or fantastical situation
+
+---
+
+## 👨‍🏫 Teacher Transformation Guide
+
+
+**Register Guidance:** Use Slang/Street throughout: Casual street language, colloquialisms, youth speak
+
+**Genre Guidance:** Frame all content with Fantasy theme: Magic, mythical creatures, imaginary worlds
+
+**Tone:** imaginative, wondrous, epic
+
+**Key Vocabulary:**
+- magical
+- enchanted
+- mystical
+- legendary
+- mythical
+- supernatural
+
+---
+
+## 📊 Assessment
+
+**Register Focus:** Students demonstrate mastery of Slang/Street register  
+**Genre Focus:** Students engage with Fantasy themed content
+
+**Criteria:**
+- Appropriate use of slang register language
+- Engagement with fantasy theme elements
+- Comprehension of topic within new context
+- Creative application of vocabulary
+
+---
+
+## 🔬 Methodology
+
+**Approach:** Augmented CLT with Register & Genre Transformation
+
+**Augmentation Frameworks:**
+- Sociolinguistic Register Theory
+- Genre-Based Pedagogy
+- Content Transformation Methodology
+- Narrative Language Teaching
+
+---
+
+*This augmented lesson demonstrates the power of register and genre transformation in language teaching.*

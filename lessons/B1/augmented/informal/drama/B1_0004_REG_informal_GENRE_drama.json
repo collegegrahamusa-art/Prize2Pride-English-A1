@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0004_REG_informal_GENRE_drama",
+  "original_lesson_id": "B1_0004",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "informal",
+  "language_register_name": "Informal/Conversational",
+  "genre_theme": "drama",
+  "genre_theme_name": "Drama",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Hobbies and Free Time",
+  "augmented_topic": "Hobbies and Free Time (Drama Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Common contractions (I'm, you're, it's)",
+    "Simple vocabulary",
+    "Personal pronouns",
+    "Conversational expressions",
+    "Relaxed grammar"
+  ],
+  "register_example_phrases": [
+    "How's it going?",
+    "That's great!",
+    "I think so",
+    "Really?",
+    "Take it easy"
+  ],
+  "genre_vocabulary": [
+    "conflict",
+    "tension",
+    "struggle",
+    "revelation",
+    "confrontation",
+    "dilemma"
+  ],
+  "genre_scenario_twist": "dramatic conflict or emotional crisis",
+  "genre_tone": "intense, emotional, serious",
+  "objectives": [
+    "Students will discuss hobbies and free time using Informal/Conversational register language",
+    "Students will engage with Drama themed scenarios related to hobbies and free time",
+    "Students will demonstrate appropriate use of informal level vocabulary and expressions",
+    "Students will create dialogues combining hobbies and free time content with Drama narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Drama Scenario Introduction",
+    "register": "Informal/Conversational",
+    "description": "Students explore hobbies and free time through a Drama lens using Informal/Conversational language",
+    "scenario": "Imagine a dramatic conflict or emotional crisis involving hobbies and free time",
+    "tone": "intense, emotional, serious",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Drama Vocabulary Building",
+      "description": "Students learn and practice informal register vocabulary related to hobbies and free time in a drama context",
+      "genre_element": "dramatic conflict or emotional crisis",
+      "register_focus": "Informal/Conversational",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Drama Role-Play",
+      "description": "Students engage in drama themed role-play about hobbies and free time using informal register",
+      "genre_element": "intense, emotional, serious",
+      "register_focus": "Informal/Conversational",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Drama Creative Production",
+      "description": "Students create original drama themed content about hobbies and free time in informal register",
+      "genre_element": "narrative creation",
+      "register_focus": "Informal/Conversational",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe hobbies and free time in a Drama scenario?",
+    "What conflict or tension might be involved in hobbies and free time?",
+    "Can you create a Drama story about hobbies and free time?",
+    "How does hobbies and free time change when viewed through a Drama perspective?",
+    "What informal register expressions would you use to discuss this drama scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Drama situation involving hobbies and free time",
+      "register": "Informal/Conversational",
+      "genre_twist": "dramatic conflict or emotional crisis",
+      "roles": [
+        "Character A: Using informal register in drama context",
+        "Character B: Responding in informal register within drama theme"
+      ],
+      "tone": "intense, emotional, serious",
+      "vocabulary_focus": [
+        "conflict",
+        "tension",
+        "struggle"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How's it going?",
+    "positive_reaction": "That's great!",
+    "agreement": "I think so",
+    "question": "Really?",
+    "closing": "Take it easy"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "conflict",
+      "tension",
+      "struggle",
+      "revelation",
+      "confrontation",
+      "dilemma"
+    ],
+    "topic_genre_blend": [
+      "hobbies and free time with conflict",
+      "hobbies and free time with tension",
+      "hobbies and free time with struggle"
+    ],
+    "narrative_elements": [
+      "Drama scenario",
+      "intense, emotional, serious atmosphere",
+      "dramatic conflict or emotional crisis"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Informal/Conversational throughout: Friendly, relaxed everyday speech",
+    "genre_guidance": "Frame all content with Drama theme: Intense emotions, conflicts, life challenges",
+    "tone": "intense, emotional, serious",
+    "key_vocabulary": [
+      "conflict",
+      "tension",
+      "struggle",
+      "revelation",
+      "confrontation",
+      "dilemma"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Informal/Conversational register",
+    "genre_focus": "Students engage with Drama themed content",
+    "criteria": [
+      "Appropriate use of informal register language",
+      "Engagement with drama theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

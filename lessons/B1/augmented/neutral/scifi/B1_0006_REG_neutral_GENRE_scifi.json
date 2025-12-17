@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0006_REG_neutral_GENRE_scifi",
+  "original_lesson_id": "B1_0006",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "neutral",
+  "language_register_name": "Neutral/Standard",
+  "genre_theme": "scifi",
+  "genre_theme_name": "Science Fiction",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Health and Fitness",
+  "augmented_topic": "Health and Fitness (Science Fiction Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Clear and direct",
+    "Standard grammar",
+    "Professional vocabulary",
+    "Balanced tone",
+    "Appropriate for most contexts"
+  ],
+  "register_example_phrases": [
+    "How are you?",
+    "That's excellent",
+    "I believe so",
+    "Is that correct?",
+    "Please proceed"
+  ],
+  "genre_vocabulary": [
+    "technology",
+    "innovation",
+    "futuristic",
+    "artificial",
+    "quantum",
+    "cyber"
+  ],
+  "genre_scenario_twist": "futuristic or technological scenario",
+  "genre_tone": "innovative, speculative, advanced",
+  "objectives": [
+    "Students will discuss health and fitness using Neutral/Standard register language",
+    "Students will engage with Science Fiction themed scenarios related to health and fitness",
+    "Students will demonstrate appropriate use of neutral level vocabulary and expressions",
+    "Students will create dialogues combining health and fitness content with Science Fiction narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Science Fiction Scenario Introduction",
+    "register": "Neutral/Standard",
+    "description": "Students explore health and fitness through a Science Fiction lens using Neutral/Standard language",
+    "scenario": "Imagine a futuristic or technological scenario involving health and fitness",
+    "tone": "innovative, speculative, advanced",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Science Fiction Vocabulary Building",
+      "description": "Students learn and practice neutral register vocabulary related to health and fitness in a scifi context",
+      "genre_element": "futuristic or technological scenario",
+      "register_focus": "Neutral/Standard",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Science Fiction Role-Play",
+      "description": "Students engage in scifi themed role-play about health and fitness using neutral register",
+      "genre_element": "innovative, speculative, advanced",
+      "register_focus": "Neutral/Standard",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Science Fiction Creative Production",
+      "description": "Students create original scifi themed content about health and fitness in neutral register",
+      "genre_element": "narrative creation",
+      "register_focus": "Neutral/Standard",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe health and fitness in a Science Fiction scenario?",
+    "What technology or innovation might be involved in health and fitness?",
+    "Can you create a Science Fiction story about health and fitness?",
+    "How does health and fitness change when viewed through a Science Fiction perspective?",
+    "What neutral register expressions would you use to discuss this scifi scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Science Fiction situation involving health and fitness",
+      "register": "Neutral/Standard",
+      "genre_twist": "futuristic or technological scenario",
+      "roles": [
+        "Character A: Using neutral register in scifi context",
+        "Character B: Responding in neutral register within scifi theme"
+      ],
+      "tone": "innovative, speculative, advanced",
+      "vocabulary_focus": [
+        "technology",
+        "innovation",
+        "futuristic"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How are you?",
+    "positive_reaction": "That's excellent",
+    "agreement": "I believe so",
+    "question": "Is that correct?",
+    "closing": "Please proceed"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "technology",
+      "innovation",
+      "futuristic",
+      "artificial",
+      "quantum",
+      "cyber"
+    ],
+    "topic_genre_blend": [
+      "health and fitness with technology",
+      "health and fitness with innovation",
+      "health and fitness with futuristic"
+    ],
+    "narrative_elements": [
+      "Science Fiction scenario",
+      "innovative, speculative, advanced atmosphere",
+      "futuristic or technological scenario"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Neutral/Standard throughout: Standard professional communication",
+    "genre_guidance": "Frame all content with Science Fiction theme: Futuristic, technology, space, innovation",
+    "tone": "innovative, speculative, advanced",
+    "key_vocabulary": [
+      "technology",
+      "innovation",
+      "futuristic",
+      "artificial",
+      "quantum",
+      "cyber"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Neutral/Standard register",
+    "genre_focus": "Students engage with Science Fiction themed content",
+    "criteria": [
+      "Appropriate use of neutral register language",
+      "Engagement with scifi theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}

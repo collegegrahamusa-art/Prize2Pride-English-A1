@@ -1,0 +1,163 @@
+{
+  "lesson_id": "B1_0005_REG_informal_GENRE_business",
+  "original_lesson_id": "B1_0005",
+  "augmentation_type": "register_genre_transformation",
+  "language_register": "informal",
+  "language_register_name": "Informal/Conversational",
+  "genre_theme": "business",
+  "genre_theme_name": "Business/Corporate",
+  "level": "B1",
+  "level_name": "Intermediate",
+  "category": "",
+  "original_topic": "Shopping and Consumer Behavior",
+  "augmented_topic": "Shopping and Consumer Behavior (Business/Corporate Theme)",
+  "learning_style": "",
+  "cognitive_level": "",
+  "duration": "45-60 minutes",
+  "register_characteristics": [
+    "Common contractions (I'm, you're, it's)",
+    "Simple vocabulary",
+    "Personal pronouns",
+    "Conversational expressions",
+    "Relaxed grammar"
+  ],
+  "register_example_phrases": [
+    "How's it going?",
+    "That's great!",
+    "I think so",
+    "Really?",
+    "Take it easy"
+  ],
+  "genre_vocabulary": [
+    "strategy",
+    "negotiation",
+    "stakeholder",
+    "synergy",
+    "leverage",
+    "optimize"
+  ],
+  "genre_scenario_twist": "corporate or business challenge",
+  "genre_tone": "professional, strategic, goal-oriented",
+  "objectives": [
+    "Students will discuss shopping and consumer behavior using Informal/Conversational register language",
+    "Students will engage with Business/Corporate themed scenarios related to shopping and consumer behavior",
+    "Students will demonstrate appropriate use of informal level vocabulary and expressions",
+    "Students will create dialogues combining shopping and consumer behavior content with Business/Corporate narrative elements"
+  ],
+  "warm_up": {
+    "activity": "Business/Corporate Scenario Introduction",
+    "register": "Informal/Conversational",
+    "description": "Students explore shopping and consumer behavior through a Business/Corporate lens using Informal/Conversational language",
+    "scenario": "Imagine a corporate or business challenge involving shopping and consumer behavior",
+    "tone": "professional, strategic, goal-oriented",
+    "time": "5-10 minutes"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Business/Corporate Vocabulary Building",
+      "description": "Students learn and practice informal register vocabulary related to shopping and consumer behavior in a business context",
+      "genre_element": "corporate or business challenge",
+      "register_focus": "Informal/Conversational",
+      "time": "15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Business/Corporate Role-Play",
+      "description": "Students engage in business themed role-play about shopping and consumer behavior using informal register",
+      "genre_element": "professional, strategic, goal-oriented",
+      "register_focus": "Informal/Conversational",
+      "time": "20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Business/Corporate Creative Production",
+      "description": "Students create original business themed content about shopping and consumer behavior in informal register",
+      "genre_element": "narrative creation",
+      "register_focus": "Informal/Conversational",
+      "time": "15 minutes"
+    }
+  ],
+  "discussion_questions": [
+    "How would you describe shopping and consumer behavior in a Business/Corporate scenario?",
+    "What strategy or negotiation might be involved in shopping and consumer behavior?",
+    "Can you create a Business/Corporate story about shopping and consumer behavior?",
+    "How does shopping and consumer behavior change when viewed through a Business/Corporate perspective?",
+    "What informal register expressions would you use to discuss this business scenario?"
+  ],
+  "role_play_scenarios": [
+    {
+      "scenario": "Business/Corporate situation involving shopping and consumer behavior",
+      "register": "Informal/Conversational",
+      "genre_twist": "corporate or business challenge",
+      "roles": [
+        "Character A: Using informal register in business context",
+        "Character B: Responding in informal register within business theme"
+      ],
+      "tone": "professional, strategic, goal-oriented",
+      "vocabulary_focus": [
+        "strategy",
+        "negotiation",
+        "stakeholder"
+      ]
+    }
+  ],
+  "useful_expressions": {
+    "greeting": "How's it going?",
+    "positive_reaction": "That's great!",
+    "agreement": "I think so",
+    "question": "Really?",
+    "closing": "Take it easy"
+  },
+  "genre_vocabulary_list": {
+    "core_genre_terms": [
+      "strategy",
+      "negotiation",
+      "stakeholder",
+      "synergy",
+      "leverage",
+      "optimize"
+    ],
+    "topic_genre_blend": [
+      "shopping and consumer behavior with strategy",
+      "shopping and consumer behavior with negotiation",
+      "shopping and consumer behavior with stakeholder"
+    ],
+    "narrative_elements": [
+      "Business/Corporate scenario",
+      "professional, strategic, goal-oriented atmosphere",
+      "corporate or business challenge"
+    ]
+  },
+  "teacher_transformation_guide": {
+    "register_guidance": "Use Informal/Conversational throughout: Friendly, relaxed everyday speech",
+    "genre_guidance": "Frame all content with Business/Corporate theme: Professional scenarios, workplace situations",
+    "tone": "professional, strategic, goal-oriented",
+    "key_vocabulary": [
+      "strategy",
+      "negotiation",
+      "stakeholder",
+      "synergy",
+      "leverage",
+      "optimize"
+    ]
+  },
+  "assessment": {
+    "register_focus": "Students demonstrate mastery of Informal/Conversational register",
+    "genre_focus": "Students engage with Business/Corporate themed content",
+    "criteria": [
+      "Appropriate use of informal register language",
+      "Engagement with business theme elements",
+      "Comprehension of topic within new context",
+      "Creative application of vocabulary"
+    ]
+  },
+  "methodology": "Augmented CLT with Register & Genre Transformation",
+  "augmentation_frameworks": [
+    "Sociolinguistic Register Theory",
+    "Genre-Based Pedagogy",
+    "Content Transformation Methodology",
+    "Narrative Language Teaching"
+  ],
+  "original_frameworks": []
+}
