@@ -1,0 +1,212 @@
+{
+  "lesson_id": "C1_sociology_auditory_intermediate_0012",
+  "level": "C1",
+  "category": "sociology",
+  "topic": "Cultural Hegemony",
+  "learning_style": "auditory",
+  "learning_style_name": "Auditory Learners",
+  "cognitive_level": "intermediate",
+  "cognitive_level_name": "Intermediate/Application",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Apply theoretical concepts to analyze cultural hegemony",
+    "Examine underlying assumptions and biases",
+    "Structure complex academic arguments"
+  ],
+  "learning_style_adaptations": [
+    "Listening activities and podcasts",
+    "Group discussions and debates",
+    "Oral presentations",
+    "Audio recordings and repetition",
+    "Verbal instructions and explanations"
+  ],
+  "cognitive_activities": [
+    "Apply language in new contexts",
+    "Compare and contrast ideas",
+    "Analyze arguments and perspectives",
+    "Solve communication problems",
+    "Organize and structure discourse"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about cultural hegemony",
+    "logical_mathematical": "Analyze patterns and create logical arguments about cultural hegemony",
+    "spatial": "Create visual representations or mind maps of cultural hegemony",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to cultural hegemony",
+    "musical": "Create a song or rhythm exercise about cultural hegemony",
+    "interpersonal": "Collaborate in groups to discuss cultural hegemony",
+    "intrapersonal": "Reflect individually on personal connection to cultural hegemony",
+    "naturalistic": "Categorize and classify concepts related to cultural hegemony"
+  },
+  "udl_principles": {
+    "representation": [
+      "Audio recordings",
+      "Podcasts",
+      "Verbal explanations",
+      "Music"
+    ],
+    "action_expression": [
+      "Give presentations",
+      "Record podcasts",
+      "Lead discussions",
+      "Oral reports"
+    ],
+    "engagement": [
+      "Moderate challenge",
+      "Choice in activities",
+      "Collaborative work",
+      "Real-world relevance"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about cultural hegemony",
+      "intermediate": "Standard complexity materials with support about cultural hegemony",
+      "advanced": "Complex authentic materials and academic texts about cultural hegemony"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Teacher-paced with flexibility",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Podcast",
+      "Oral presentation",
+      "Audio recording",
+      "Interview"
+    ],
+    "environment": "Quiet space with good acoustics and audio equipment"
+  },
+  "warm_up": {
+    "activity": "Listen and Discuss",
+    "description": "Students listen to audio about cultural hegemony and share reactions",
+    "materials": "Audio recording or podcast excerpt"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Listening activities and podcasts",
+      "cognitive_level": "Apply",
+      "description": "Students receive information about cultural hegemony through auditory modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Group discussions and debates",
+      "cognitive_level": "Analyze",
+      "description": "Students practice language related to cultural hegemony using auditory approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Oral presentations",
+      "cognitive_level": "Apply language in new contexts",
+      "description": "Students produce original content about cultural hegemony demonstrating intermediate thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "How does cultural hegemony affect people?",
+    "What are the advantages and disadvantages of cultural hegemony?",
+    "How would you solve problems related to cultural hegemony?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in auditory format",
+      "Assessment at intermediate level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Graphic organizers",
+    "Guiding questions",
+    "Peer support",
+    "Reference materials",
+    "Partial models"
+  ],
+  "extension_challenges": [
+    "Apply learning to new contexts",
+    "Research and present findings",
+    "Create teaching materials for others"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for cultural hegemony",
+    "tier_3": "Domain-specific technical terms related to cultural hegemony"
+  },
+  "grammar_focus": [
+    "Inversion",
+    "Cleft sentences",
+    "Subjunctive mood"
+  ],
+  "materials_needed": [
+    "Audio player",
+    "Microphones",
+    "Recording device",
+    "Speakers"
+  ],
+  "technology_integration": [
+    "Podcasts",
+    "Audio recording apps",
+    "Voice notes",
+    "Music platforms"
+  ],
+  "homework_options": {
+    "required": "Core assignment at intermediate level using auditory approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for auditory learners",
+    "differentiation_tips": "Adjust complexity for intermediate level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about cultural hegemony",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide graphic organizers",
+    "Offer peer support",
+    "Break tasks into steps",
+    "Give specific feedback"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

@@ -1,0 +1,212 @@
+{
+  "lesson_id": "B1_work_reading_writing_intermediate_0002",
+  "level": "B1",
+  "category": "work",
+  "topic": "First Day at Work",
+  "learning_style": "reading_writing",
+  "learning_style_name": "Reading/Writing Learners",
+  "cognitive_level": "intermediate",
+  "cognitive_level_name": "Intermediate/Application",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Apply learned vocabulary in conversations about first day at work",
+    "Compare different perspectives on first day at work",
+    "Analyze simple arguments and opinions"
+  ],
+  "learning_style_adaptations": [
+    "Reading comprehension activities",
+    "Writing assignments and journals",
+    "Note-taking and summarizing",
+    "Text analysis and annotation",
+    "Written reflections"
+  ],
+  "cognitive_activities": [
+    "Apply language in new contexts",
+    "Compare and contrast ideas",
+    "Analyze arguments and perspectives",
+    "Solve communication problems",
+    "Organize and structure discourse"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about first day at work",
+    "logical_mathematical": "Analyze patterns and create logical arguments about first day at work",
+    "spatial": "Create visual representations or mind maps of first day at work",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to first day at work",
+    "musical": "Create a song or rhythm exercise about first day at work",
+    "interpersonal": "Collaborate in groups to discuss first day at work",
+    "intrapersonal": "Reflect individually on personal connection to first day at work",
+    "naturalistic": "Categorize and classify concepts related to first day at work"
+  },
+  "udl_principles": {
+    "representation": [
+      "Text documents",
+      "Written instructions",
+      "Articles",
+      "Handouts"
+    ],
+    "action_expression": [
+      "Write essays",
+      "Create reports",
+      "Compose blogs",
+      "Draft scripts"
+    ],
+    "engagement": [
+      "Moderate challenge",
+      "Choice in activities",
+      "Collaborative work",
+      "Real-world relevance"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about first day at work",
+      "intermediate": "Standard complexity materials with support about first day at work",
+      "advanced": "Complex authentic materials and academic texts about first day at work"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Teacher-paced with flexibility",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Essay",
+      "Report",
+      "Blog post",
+      "Written dialogue"
+    ],
+    "environment": "Quiet study area with writing materials and references"
+  },
+  "warm_up": {
+    "activity": "Quick Write",
+    "description": "Students write quick responses about first day at work",
+    "materials": "Paper and pens or digital writing tools"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Reading comprehension activities",
+      "cognitive_level": "Apply",
+      "description": "Students receive information about first day at work through reading_writing modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Writing assignments and journals",
+      "cognitive_level": "Analyze",
+      "description": "Students practice language related to first day at work using reading_writing approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Note-taking and summarizing",
+      "cognitive_level": "Apply language in new contexts",
+      "description": "Students produce original content about first day at work demonstrating intermediate thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "How does first day at work affect people?",
+    "What are the advantages and disadvantages of first day at work?",
+    "How would you solve problems related to first day at work?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in reading_writing format",
+      "Assessment at intermediate level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Graphic organizers",
+    "Guiding questions",
+    "Peer support",
+    "Reference materials",
+    "Partial models"
+  ],
+  "extension_challenges": [
+    "Apply learning to new contexts",
+    "Research and present findings",
+    "Create teaching materials for others"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for first day at work",
+    "tier_3": "Domain-specific technical terms related to first day at work"
+  },
+  "grammar_focus": [
+    "Present perfect",
+    "Modal verbs",
+    "First conditional"
+  ],
+  "materials_needed": [
+    "Texts",
+    "Handouts",
+    "Writing materials",
+    "Reference books"
+  ],
+  "technology_integration": [
+    "Google Docs",
+    "Blogs",
+    "Digital portfolios",
+    "E-books"
+  ],
+  "homework_options": {
+    "required": "Core assignment at intermediate level using reading_writing approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for reading_writing learners",
+    "differentiation_tips": "Adjust complexity for intermediate level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about first day at work",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide graphic organizers",
+    "Offer peer support",
+    "Break tasks into steps",
+    "Give specific feedback"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

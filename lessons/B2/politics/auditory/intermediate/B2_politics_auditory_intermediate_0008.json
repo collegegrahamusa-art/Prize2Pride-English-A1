@@ -1,0 +1,212 @@
+{
+  "lesson_id": "B2_politics_auditory_intermediate_0008",
+  "level": "B2",
+  "category": "politics",
+  "topic": "Protest Movements",
+  "learning_style": "auditory",
+  "learning_style_name": "Auditory Learners",
+  "cognitive_level": "intermediate",
+  "cognitive_level_name": "Intermediate/Application",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Apply critical thinking to analyze protest movements",
+    "Compare and contrast multiple perspectives",
+    "Organize coherent arguments"
+  ],
+  "learning_style_adaptations": [
+    "Listening activities and podcasts",
+    "Group discussions and debates",
+    "Oral presentations",
+    "Audio recordings and repetition",
+    "Verbal instructions and explanations"
+  ],
+  "cognitive_activities": [
+    "Apply language in new contexts",
+    "Compare and contrast ideas",
+    "Analyze arguments and perspectives",
+    "Solve communication problems",
+    "Organize and structure discourse"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about protest movements",
+    "logical_mathematical": "Analyze patterns and create logical arguments about protest movements",
+    "spatial": "Create visual representations or mind maps of protest movements",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to protest movements",
+    "musical": "Create a song or rhythm exercise about protest movements",
+    "interpersonal": "Collaborate in groups to discuss protest movements",
+    "intrapersonal": "Reflect individually on personal connection to protest movements",
+    "naturalistic": "Categorize and classify concepts related to protest movements"
+  },
+  "udl_principles": {
+    "representation": [
+      "Audio recordings",
+      "Podcasts",
+      "Verbal explanations",
+      "Music"
+    ],
+    "action_expression": [
+      "Give presentations",
+      "Record podcasts",
+      "Lead discussions",
+      "Oral reports"
+    ],
+    "engagement": [
+      "Moderate challenge",
+      "Choice in activities",
+      "Collaborative work",
+      "Real-world relevance"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about protest movements",
+      "intermediate": "Standard complexity materials with support about protest movements",
+      "advanced": "Complex authentic materials and academic texts about protest movements"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Teacher-paced with flexibility",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Podcast",
+      "Oral presentation",
+      "Audio recording",
+      "Interview"
+    ],
+    "environment": "Quiet space with good acoustics and audio equipment"
+  },
+  "warm_up": {
+    "activity": "Listen and Discuss",
+    "description": "Students listen to audio about protest movements and share reactions",
+    "materials": "Audio recording or podcast excerpt"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Listening activities and podcasts",
+      "cognitive_level": "Apply",
+      "description": "Students receive information about protest movements through auditory modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Group discussions and debates",
+      "cognitive_level": "Analyze",
+      "description": "Students practice language related to protest movements using auditory approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Oral presentations",
+      "cognitive_level": "Apply language in new contexts",
+      "description": "Students produce original content about protest movements demonstrating intermediate thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "How does protest movements affect people?",
+    "What are the advantages and disadvantages of protest movements?",
+    "How would you solve problems related to protest movements?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in auditory format",
+      "Assessment at intermediate level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Graphic organizers",
+    "Guiding questions",
+    "Peer support",
+    "Reference materials",
+    "Partial models"
+  ],
+  "extension_challenges": [
+    "Apply learning to new contexts",
+    "Research and present findings",
+    "Create teaching materials for others"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for protest movements",
+    "tier_3": "Domain-specific technical terms related to protest movements"
+  },
+  "grammar_focus": [
+    "Passive voice",
+    "Reported speech",
+    "Mixed conditionals"
+  ],
+  "materials_needed": [
+    "Audio player",
+    "Microphones",
+    "Recording device",
+    "Speakers"
+  ],
+  "technology_integration": [
+    "Podcasts",
+    "Audio recording apps",
+    "Voice notes",
+    "Music platforms"
+  ],
+  "homework_options": {
+    "required": "Core assignment at intermediate level using auditory approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for auditory learners",
+    "differentiation_tips": "Adjust complexity for intermediate level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about protest movements",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide graphic organizers",
+    "Offer peer support",
+    "Break tasks into steps",
+    "Give specific feedback"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

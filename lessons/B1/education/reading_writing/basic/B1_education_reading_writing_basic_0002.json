@@ -1,0 +1,212 @@
+{
+  "lesson_id": "B1_education_reading_writing_basic_0002",
+  "level": "B1",
+  "category": "education",
+  "topic": "Study Habits",
+  "learning_style": "reading_writing",
+  "learning_style_name": "Reading/Writing Learners",
+  "cognitive_level": "basic",
+  "cognitive_level_name": "Basic/Foundational",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Identify and recall key vocabulary related to study habits",
+    "Understand main ideas in conversations about study habits",
+    "Recognize common phrases and expressions"
+  ],
+  "learning_style_adaptations": [
+    "Reading comprehension activities",
+    "Writing assignments and journals",
+    "Note-taking and summarizing",
+    "Text analysis and annotation",
+    "Written reflections"
+  ],
+  "cognitive_activities": [
+    "Recall vocabulary and phrases",
+    "Identify and recognize patterns",
+    "Explain concepts in simple terms",
+    "Summarize main ideas",
+    "Match and categorize"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about study habits",
+    "logical_mathematical": "Analyze patterns and create logical arguments about study habits",
+    "spatial": "Create visual representations or mind maps of study habits",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to study habits",
+    "musical": "Create a song or rhythm exercise about study habits",
+    "interpersonal": "Collaborate in groups to discuss study habits",
+    "intrapersonal": "Reflect individually on personal connection to study habits",
+    "naturalistic": "Categorize and classify concepts related to study habits"
+  },
+  "udl_principles": {
+    "representation": [
+      "Text documents",
+      "Written instructions",
+      "Articles",
+      "Handouts"
+    ],
+    "action_expression": [
+      "Write essays",
+      "Create reports",
+      "Compose blogs",
+      "Draft scripts"
+    ],
+    "engagement": [
+      "Clear structure",
+      "Immediate feedback",
+      "Achievable goals",
+      "Positive reinforcement"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about study habits",
+      "intermediate": "Standard complexity materials with support about study habits",
+      "advanced": "Complex authentic materials and academic texts about study habits"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Teacher-paced with flexibility",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Essay",
+      "Report",
+      "Blog post",
+      "Written dialogue"
+    ],
+    "environment": "Quiet study area with writing materials and references"
+  },
+  "warm_up": {
+    "activity": "Quick Write",
+    "description": "Students write quick responses about study habits",
+    "materials": "Paper and pens or digital writing tools"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Reading comprehension activities",
+      "cognitive_level": "Remember",
+      "description": "Students receive information about study habits through reading_writing modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Writing assignments and journals",
+      "cognitive_level": "Understand",
+      "description": "Students practice language related to study habits using reading_writing approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Note-taking and summarizing",
+      "cognitive_level": "Recall vocabulary and phrases",
+      "description": "Students produce original content about study habits demonstrating basic thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "What is study habits?",
+    "Can you describe study habits?",
+    "What do you know about study habits?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in reading_writing format",
+      "Assessment at basic level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Sentence starters provided",
+    "Word banks available",
+    "Model examples given",
+    "Step-by-step instructions",
+    "Visual supports"
+  ],
+  "extension_challenges": [
+    "Additional practice with similar tasks",
+    "Vocabulary expansion activities",
+    "Repetition with variation"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for study habits",
+    "tier_3": "Domain-specific technical terms related to study habits"
+  },
+  "grammar_focus": [
+    "Present perfect",
+    "Modal verbs",
+    "First conditional"
+  ],
+  "materials_needed": [
+    "Texts",
+    "Handouts",
+    "Writing materials",
+    "Reference books"
+  ],
+  "technology_integration": [
+    "Google Docs",
+    "Blogs",
+    "Digital portfolios",
+    "E-books"
+  ],
+  "homework_options": {
+    "required": "Core assignment at basic level using reading_writing approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for reading_writing learners",
+    "differentiation_tips": "Adjust complexity for basic level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about study habits",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide additional modeling",
+    "Simplify language",
+    "Increase scaffolding",
+    "Allow more time"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

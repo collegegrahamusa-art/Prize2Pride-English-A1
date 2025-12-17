@@ -1,0 +1,212 @@
+{
+  "lesson_id": "C1_technology_auditory_advanced_0003",
+  "level": "C1",
+  "category": "technology",
+  "topic": "Blockchain Technology",
+  "learning_style": "auditory",
+  "learning_style_name": "Auditory Learners",
+  "cognitive_level": "advanced",
+  "cognitive_level_name": "Advanced/Creative",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Critically evaluate scholarly perspectives on blockchain technology",
+    "Create original research-based content",
+    "Synthesize interdisciplinary perspectives"
+  ],
+  "learning_style_adaptations": [
+    "Listening activities and podcasts",
+    "Group discussions and debates",
+    "Oral presentations",
+    "Audio recordings and repetition",
+    "Verbal instructions and explanations"
+  ],
+  "cognitive_activities": [
+    "Evaluate arguments critically",
+    "Create original content",
+    "Synthesize multiple perspectives",
+    "Design solutions to complex problems",
+    "Critique and justify positions"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about blockchain technology",
+    "logical_mathematical": "Analyze patterns and create logical arguments about blockchain technology",
+    "spatial": "Create visual representations or mind maps of blockchain technology",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to blockchain technology",
+    "musical": "Create a song or rhythm exercise about blockchain technology",
+    "interpersonal": "Collaborate in groups to discuss blockchain technology",
+    "intrapersonal": "Reflect individually on personal connection to blockchain technology",
+    "naturalistic": "Categorize and classify concepts related to blockchain technology"
+  },
+  "udl_principles": {
+    "representation": [
+      "Audio recordings",
+      "Podcasts",
+      "Verbal explanations",
+      "Music"
+    ],
+    "action_expression": [
+      "Give presentations",
+      "Record podcasts",
+      "Lead discussions",
+      "Oral reports"
+    ],
+    "engagement": [
+      "Complex challenges",
+      "Autonomy",
+      "Creative freedom",
+      "Intellectual stimulation"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about blockchain technology",
+      "intermediate": "Standard complexity materials with support about blockchain technology",
+      "advanced": "Complex authentic materials and academic texts about blockchain technology"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Self-paced with checkpoints",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Podcast",
+      "Oral presentation",
+      "Audio recording",
+      "Interview"
+    ],
+    "environment": "Quiet space with good acoustics and audio equipment"
+  },
+  "warm_up": {
+    "activity": "Listen and Discuss",
+    "description": "Students listen to audio about blockchain technology and share reactions",
+    "materials": "Audio recording or podcast excerpt"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Listening activities and podcasts",
+      "cognitive_level": "Evaluate",
+      "description": "Students receive information about blockchain technology through auditory modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Group discussions and debates",
+      "cognitive_level": "Create",
+      "description": "Students practice language related to blockchain technology using auditory approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Oral presentations",
+      "cognitive_level": "Evaluate arguments critically",
+      "description": "Students produce original content about blockchain technology demonstrating advanced thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "What are the implications of blockchain technology for society?",
+    "How would you design a better approach to blockchain technology?",
+    "What criteria would you use to evaluate blockchain technology?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in auditory format",
+      "Assessment at advanced level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Minimal scaffolding",
+    "Complex resources available",
+    "Peer collaboration",
+    "Independent research",
+    "Self-directed learning"
+  ],
+  "extension_challenges": [
+    "Conduct independent research project",
+    "Create original theoretical framework",
+    "Mentor other students"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for blockchain technology",
+    "tier_3": "Domain-specific technical terms related to blockchain technology"
+  },
+  "grammar_focus": [
+    "Inversion",
+    "Cleft sentences",
+    "Subjunctive mood"
+  ],
+  "materials_needed": [
+    "Audio player",
+    "Microphones",
+    "Recording device",
+    "Speakers"
+  ],
+  "technology_integration": [
+    "Podcasts",
+    "Audio recording apps",
+    "Voice notes",
+    "Music platforms"
+  ],
+  "homework_options": {
+    "required": "Core assignment at advanced level using auditory approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for auditory learners",
+    "differentiation_tips": "Adjust complexity for advanced level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about blockchain technology",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide complex resources",
+    "Encourage independent problem-solving",
+    "Facilitate peer teaching",
+    "Challenge with extensions"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

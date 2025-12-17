@@ -1,0 +1,212 @@
+{
+  "lesson_id": "B1_work_auditory_basic_0004",
+  "level": "B1",
+  "category": "work",
+  "topic": "Team Meetings",
+  "learning_style": "auditory",
+  "learning_style_name": "Auditory Learners",
+  "cognitive_level": "basic",
+  "cognitive_level_name": "Basic/Foundational",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Identify and recall key vocabulary related to team meetings",
+    "Understand main ideas in conversations about team meetings",
+    "Recognize common phrases and expressions"
+  ],
+  "learning_style_adaptations": [
+    "Listening activities and podcasts",
+    "Group discussions and debates",
+    "Oral presentations",
+    "Audio recordings and repetition",
+    "Verbal instructions and explanations"
+  ],
+  "cognitive_activities": [
+    "Recall vocabulary and phrases",
+    "Identify and recognize patterns",
+    "Explain concepts in simple terms",
+    "Summarize main ideas",
+    "Match and categorize"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about team meetings",
+    "logical_mathematical": "Analyze patterns and create logical arguments about team meetings",
+    "spatial": "Create visual representations or mind maps of team meetings",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to team meetings",
+    "musical": "Create a song or rhythm exercise about team meetings",
+    "interpersonal": "Collaborate in groups to discuss team meetings",
+    "intrapersonal": "Reflect individually on personal connection to team meetings",
+    "naturalistic": "Categorize and classify concepts related to team meetings"
+  },
+  "udl_principles": {
+    "representation": [
+      "Audio recordings",
+      "Podcasts",
+      "Verbal explanations",
+      "Music"
+    ],
+    "action_expression": [
+      "Give presentations",
+      "Record podcasts",
+      "Lead discussions",
+      "Oral reports"
+    ],
+    "engagement": [
+      "Clear structure",
+      "Immediate feedback",
+      "Achievable goals",
+      "Positive reinforcement"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about team meetings",
+      "intermediate": "Standard complexity materials with support about team meetings",
+      "advanced": "Complex authentic materials and academic texts about team meetings"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Teacher-paced with flexibility",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Podcast",
+      "Oral presentation",
+      "Audio recording",
+      "Interview"
+    ],
+    "environment": "Quiet space with good acoustics and audio equipment"
+  },
+  "warm_up": {
+    "activity": "Listen and Discuss",
+    "description": "Students listen to audio about team meetings and share reactions",
+    "materials": "Audio recording or podcast excerpt"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Listening activities and podcasts",
+      "cognitive_level": "Remember",
+      "description": "Students receive information about team meetings through auditory modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Group discussions and debates",
+      "cognitive_level": "Understand",
+      "description": "Students practice language related to team meetings using auditory approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Oral presentations",
+      "cognitive_level": "Recall vocabulary and phrases",
+      "description": "Students produce original content about team meetings demonstrating basic thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "What is team meetings?",
+    "Can you describe team meetings?",
+    "What do you know about team meetings?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in auditory format",
+      "Assessment at basic level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Sentence starters provided",
+    "Word banks available",
+    "Model examples given",
+    "Step-by-step instructions",
+    "Visual supports"
+  ],
+  "extension_challenges": [
+    "Additional practice with similar tasks",
+    "Vocabulary expansion activities",
+    "Repetition with variation"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for team meetings",
+    "tier_3": "Domain-specific technical terms related to team meetings"
+  },
+  "grammar_focus": [
+    "Present perfect",
+    "Modal verbs",
+    "First conditional"
+  ],
+  "materials_needed": [
+    "Audio player",
+    "Microphones",
+    "Recording device",
+    "Speakers"
+  ],
+  "technology_integration": [
+    "Podcasts",
+    "Audio recording apps",
+    "Voice notes",
+    "Music platforms"
+  ],
+  "homework_options": {
+    "required": "Core assignment at basic level using auditory approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for auditory learners",
+    "differentiation_tips": "Adjust complexity for basic level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about team meetings",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide additional modeling",
+    "Simplify language",
+    "Increase scaffolding",
+    "Allow more time"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

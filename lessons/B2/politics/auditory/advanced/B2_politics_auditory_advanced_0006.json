@@ -1,0 +1,212 @@
+{
+  "lesson_id": "B2_politics_auditory_advanced_0006",
+  "level": "B2",
+  "category": "politics",
+  "topic": "Corruption Issues",
+  "learning_style": "auditory",
+  "learning_style_name": "Auditory Learners",
+  "cognitive_level": "advanced",
+  "cognitive_level_name": "Advanced/Creative",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Evaluate evidence and reasoning about corruption issues",
+    "Create well-structured presentations",
+    "Synthesize complex information effectively"
+  ],
+  "learning_style_adaptations": [
+    "Listening activities and podcasts",
+    "Group discussions and debates",
+    "Oral presentations",
+    "Audio recordings and repetition",
+    "Verbal instructions and explanations"
+  ],
+  "cognitive_activities": [
+    "Evaluate arguments critically",
+    "Create original content",
+    "Synthesize multiple perspectives",
+    "Design solutions to complex problems",
+    "Critique and justify positions"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about corruption issues",
+    "logical_mathematical": "Analyze patterns and create logical arguments about corruption issues",
+    "spatial": "Create visual representations or mind maps of corruption issues",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to corruption issues",
+    "musical": "Create a song or rhythm exercise about corruption issues",
+    "interpersonal": "Collaborate in groups to discuss corruption issues",
+    "intrapersonal": "Reflect individually on personal connection to corruption issues",
+    "naturalistic": "Categorize and classify concepts related to corruption issues"
+  },
+  "udl_principles": {
+    "representation": [
+      "Audio recordings",
+      "Podcasts",
+      "Verbal explanations",
+      "Music"
+    ],
+    "action_expression": [
+      "Give presentations",
+      "Record podcasts",
+      "Lead discussions",
+      "Oral reports"
+    ],
+    "engagement": [
+      "Complex challenges",
+      "Autonomy",
+      "Creative freedom",
+      "Intellectual stimulation"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about corruption issues",
+      "intermediate": "Standard complexity materials with support about corruption issues",
+      "advanced": "Complex authentic materials and academic texts about corruption issues"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Self-paced with checkpoints",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Podcast",
+      "Oral presentation",
+      "Audio recording",
+      "Interview"
+    ],
+    "environment": "Quiet space with good acoustics and audio equipment"
+  },
+  "warm_up": {
+    "activity": "Listen and Discuss",
+    "description": "Students listen to audio about corruption issues and share reactions",
+    "materials": "Audio recording or podcast excerpt"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Listening activities and podcasts",
+      "cognitive_level": "Evaluate",
+      "description": "Students receive information about corruption issues through auditory modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Group discussions and debates",
+      "cognitive_level": "Create",
+      "description": "Students practice language related to corruption issues using auditory approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Oral presentations",
+      "cognitive_level": "Evaluate arguments critically",
+      "description": "Students produce original content about corruption issues demonstrating advanced thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "What are the implications of corruption issues for society?",
+    "How would you design a better approach to corruption issues?",
+    "What criteria would you use to evaluate corruption issues?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in auditory format",
+      "Assessment at advanced level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Minimal scaffolding",
+    "Complex resources available",
+    "Peer collaboration",
+    "Independent research",
+    "Self-directed learning"
+  ],
+  "extension_challenges": [
+    "Conduct independent research project",
+    "Create original theoretical framework",
+    "Mentor other students"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for corruption issues",
+    "tier_3": "Domain-specific technical terms related to corruption issues"
+  },
+  "grammar_focus": [
+    "Passive voice",
+    "Reported speech",
+    "Mixed conditionals"
+  ],
+  "materials_needed": [
+    "Audio player",
+    "Microphones",
+    "Recording device",
+    "Speakers"
+  ],
+  "technology_integration": [
+    "Podcasts",
+    "Audio recording apps",
+    "Voice notes",
+    "Music platforms"
+  ],
+  "homework_options": {
+    "required": "Core assignment at advanced level using auditory approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for auditory learners",
+    "differentiation_tips": "Adjust complexity for advanced level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about corruption issues",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide complex resources",
+    "Encourage independent problem-solving",
+    "Facilitate peer teaching",
+    "Challenge with extensions"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

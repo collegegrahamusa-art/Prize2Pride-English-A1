@@ -1,0 +1,209 @@
+{
+  "lesson_id": "B2_society_kinesthetic_intermediate_0003",
+  "level": "B2",
+  "category": "society",
+  "topic": "Healthcare Access",
+  "learning_style": "kinesthetic",
+  "learning_style_name": "Kinesthetic Learners",
+  "cognitive_level": "intermediate",
+  "cognitive_level_name": "Intermediate/Application",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Apply critical thinking to analyze healthcare access",
+    "Compare and contrast multiple perspectives",
+    "Organize coherent arguments"
+  ],
+  "learning_style_adaptations": [
+    "Role-plays and simulations",
+    "Physical games and activities",
+    "Real-world tasks and projects",
+    "Movement-based learning",
+    "Hands-on experiments"
+  ],
+  "cognitive_activities": [
+    "Apply language in new contexts",
+    "Compare and contrast ideas",
+    "Analyze arguments and perspectives",
+    "Solve communication problems",
+    "Organize and structure discourse"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about healthcare access",
+    "logical_mathematical": "Analyze patterns and create logical arguments about healthcare access",
+    "spatial": "Create visual representations or mind maps of healthcare access",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to healthcare access",
+    "musical": "Create a song or rhythm exercise about healthcare access",
+    "interpersonal": "Collaborate in groups to discuss healthcare access",
+    "intrapersonal": "Reflect individually on personal connection to healthcare access",
+    "naturalistic": "Categorize and classify concepts related to healthcare access"
+  },
+  "udl_principles": {
+    "representation": [
+      "Physical demonstrations",
+      "Interactive models",
+      "Hands-on materials"
+    ],
+    "action_expression": [
+      "Perform role-plays",
+      "Create demonstrations",
+      "Build models",
+      "Act out scenarios"
+    ],
+    "engagement": [
+      "Moderate challenge",
+      "Choice in activities",
+      "Collaborative work",
+      "Real-world relevance"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about healthcare access",
+      "intermediate": "Standard complexity materials with support about healthcare access",
+      "advanced": "Complex authentic materials and academic texts about healthcare access"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Teacher-paced with flexibility",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Role-play performance",
+      "Demonstration",
+      "Interactive presentation"
+    ],
+    "environment": "Open space allowing movement and hands-on activities"
+  },
+  "warm_up": {
+    "activity": "Movement Activity",
+    "description": "Students move around and interact physically related to healthcare access",
+    "materials": "Space for movement, props if needed"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Role-plays and simulations",
+      "cognitive_level": "Apply",
+      "description": "Students receive information about healthcare access through kinesthetic modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Physical games and activities",
+      "cognitive_level": "Analyze",
+      "description": "Students practice language related to healthcare access using kinesthetic approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Real-world tasks and projects",
+      "cognitive_level": "Apply language in new contexts",
+      "description": "Students produce original content about healthcare access demonstrating intermediate thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "How does healthcare access affect people?",
+    "What are the advantages and disadvantages of healthcare access?",
+    "How would you solve problems related to healthcare access?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in kinesthetic format",
+      "Assessment at intermediate level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Graphic organizers",
+    "Guiding questions",
+    "Peer support",
+    "Reference materials",
+    "Partial models"
+  ],
+  "extension_challenges": [
+    "Apply learning to new contexts",
+    "Research and present findings",
+    "Create teaching materials for others"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for healthcare access",
+    "tier_3": "Domain-specific technical terms related to healthcare access"
+  },
+  "grammar_focus": [
+    "Passive voice",
+    "Reported speech",
+    "Mixed conditionals"
+  ],
+  "materials_needed": [
+    "Props",
+    "Realia",
+    "Movement space",
+    "Manipulatives"
+  ],
+  "technology_integration": [
+    "Interactive whiteboards",
+    "VR/AR apps",
+    "Simulation software"
+  ],
+  "homework_options": {
+    "required": "Core assignment at intermediate level using kinesthetic approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for kinesthetic learners",
+    "differentiation_tips": "Adjust complexity for intermediate level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about healthcare access",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide graphic organizers",
+    "Offer peer support",
+    "Break tasks into steps",
+    "Give specific feedback"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

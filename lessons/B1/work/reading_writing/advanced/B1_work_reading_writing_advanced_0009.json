@@ -1,0 +1,212 @@
+{
+  "lesson_id": "B1_work_reading_writing_advanced_0009",
+  "level": "B1",
+  "category": "work",
+  "topic": "Work-Life Balance",
+  "learning_style": "reading_writing",
+  "learning_style_name": "Reading/Writing Learners",
+  "cognitive_level": "advanced",
+  "cognitive_level_name": "Advanced/Creative",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Evaluate different viewpoints on work-life balance",
+    "Create original dialogues about work-life balance",
+    "Synthesize information from multiple sources"
+  ],
+  "learning_style_adaptations": [
+    "Reading comprehension activities",
+    "Writing assignments and journals",
+    "Note-taking and summarizing",
+    "Text analysis and annotation",
+    "Written reflections"
+  ],
+  "cognitive_activities": [
+    "Evaluate arguments critically",
+    "Create original content",
+    "Synthesize multiple perspectives",
+    "Design solutions to complex problems",
+    "Critique and justify positions"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about work-life balance",
+    "logical_mathematical": "Analyze patterns and create logical arguments about work-life balance",
+    "spatial": "Create visual representations or mind maps of work-life balance",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to work-life balance",
+    "musical": "Create a song or rhythm exercise about work-life balance",
+    "interpersonal": "Collaborate in groups to discuss work-life balance",
+    "intrapersonal": "Reflect individually on personal connection to work-life balance",
+    "naturalistic": "Categorize and classify concepts related to work-life balance"
+  },
+  "udl_principles": {
+    "representation": [
+      "Text documents",
+      "Written instructions",
+      "Articles",
+      "Handouts"
+    ],
+    "action_expression": [
+      "Write essays",
+      "Create reports",
+      "Compose blogs",
+      "Draft scripts"
+    ],
+    "engagement": [
+      "Complex challenges",
+      "Autonomy",
+      "Creative freedom",
+      "Intellectual stimulation"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about work-life balance",
+      "intermediate": "Standard complexity materials with support about work-life balance",
+      "advanced": "Complex authentic materials and academic texts about work-life balance"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Self-paced with checkpoints",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Essay",
+      "Report",
+      "Blog post",
+      "Written dialogue"
+    ],
+    "environment": "Quiet study area with writing materials and references"
+  },
+  "warm_up": {
+    "activity": "Quick Write",
+    "description": "Students write quick responses about work-life balance",
+    "materials": "Paper and pens or digital writing tools"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Reading comprehension activities",
+      "cognitive_level": "Evaluate",
+      "description": "Students receive information about work-life balance through reading_writing modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Writing assignments and journals",
+      "cognitive_level": "Create",
+      "description": "Students practice language related to work-life balance using reading_writing approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Note-taking and summarizing",
+      "cognitive_level": "Evaluate arguments critically",
+      "description": "Students produce original content about work-life balance demonstrating advanced thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "What are the implications of work-life balance for society?",
+    "How would you design a better approach to work-life balance?",
+    "What criteria would you use to evaluate work-life balance?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in reading_writing format",
+      "Assessment at advanced level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Minimal scaffolding",
+    "Complex resources available",
+    "Peer collaboration",
+    "Independent research",
+    "Self-directed learning"
+  ],
+  "extension_challenges": [
+    "Conduct independent research project",
+    "Create original theoretical framework",
+    "Mentor other students"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for work-life balance",
+    "tier_3": "Domain-specific technical terms related to work-life balance"
+  },
+  "grammar_focus": [
+    "Present perfect",
+    "Modal verbs",
+    "First conditional"
+  ],
+  "materials_needed": [
+    "Texts",
+    "Handouts",
+    "Writing materials",
+    "Reference books"
+  ],
+  "technology_integration": [
+    "Google Docs",
+    "Blogs",
+    "Digital portfolios",
+    "E-books"
+  ],
+  "homework_options": {
+    "required": "Core assignment at advanced level using reading_writing approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for reading_writing learners",
+    "differentiation_tips": "Adjust complexity for advanced level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about work-life balance",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide complex resources",
+    "Encourage independent problem-solving",
+    "Facilitate peer teaching",
+    "Challenge with extensions"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

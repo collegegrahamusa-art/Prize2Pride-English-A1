@@ -1,0 +1,212 @@
+{
+  "lesson_id": "B1_travel_auditory_intermediate_0007",
+  "level": "B1",
+  "category": "travel",
+  "topic": "Using Public Transport",
+  "learning_style": "auditory",
+  "learning_style_name": "Auditory Learners",
+  "cognitive_level": "intermediate",
+  "cognitive_level_name": "Intermediate/Application",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Apply learned vocabulary in conversations about using public transport",
+    "Compare different perspectives on using public transport",
+    "Analyze simple arguments and opinions"
+  ],
+  "learning_style_adaptations": [
+    "Listening activities and podcasts",
+    "Group discussions and debates",
+    "Oral presentations",
+    "Audio recordings and repetition",
+    "Verbal instructions and explanations"
+  ],
+  "cognitive_activities": [
+    "Apply language in new contexts",
+    "Compare and contrast ideas",
+    "Analyze arguments and perspectives",
+    "Solve communication problems",
+    "Organize and structure discourse"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about using public transport",
+    "logical_mathematical": "Analyze patterns and create logical arguments about using public transport",
+    "spatial": "Create visual representations or mind maps of using public transport",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to using public transport",
+    "musical": "Create a song or rhythm exercise about using public transport",
+    "interpersonal": "Collaborate in groups to discuss using public transport",
+    "intrapersonal": "Reflect individually on personal connection to using public transport",
+    "naturalistic": "Categorize and classify concepts related to using public transport"
+  },
+  "udl_principles": {
+    "representation": [
+      "Audio recordings",
+      "Podcasts",
+      "Verbal explanations",
+      "Music"
+    ],
+    "action_expression": [
+      "Give presentations",
+      "Record podcasts",
+      "Lead discussions",
+      "Oral reports"
+    ],
+    "engagement": [
+      "Moderate challenge",
+      "Choice in activities",
+      "Collaborative work",
+      "Real-world relevance"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about using public transport",
+      "intermediate": "Standard complexity materials with support about using public transport",
+      "advanced": "Complex authentic materials and academic texts about using public transport"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Teacher-paced with flexibility",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Podcast",
+      "Oral presentation",
+      "Audio recording",
+      "Interview"
+    ],
+    "environment": "Quiet space with good acoustics and audio equipment"
+  },
+  "warm_up": {
+    "activity": "Listen and Discuss",
+    "description": "Students listen to audio about using public transport and share reactions",
+    "materials": "Audio recording or podcast excerpt"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Listening activities and podcasts",
+      "cognitive_level": "Apply",
+      "description": "Students receive information about using public transport through auditory modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Group discussions and debates",
+      "cognitive_level": "Analyze",
+      "description": "Students practice language related to using public transport using auditory approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Oral presentations",
+      "cognitive_level": "Apply language in new contexts",
+      "description": "Students produce original content about using public transport demonstrating intermediate thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "How does using public transport affect people?",
+    "What are the advantages and disadvantages of using public transport?",
+    "How would you solve problems related to using public transport?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in auditory format",
+      "Assessment at intermediate level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Graphic organizers",
+    "Guiding questions",
+    "Peer support",
+    "Reference materials",
+    "Partial models"
+  ],
+  "extension_challenges": [
+    "Apply learning to new contexts",
+    "Research and present findings",
+    "Create teaching materials for others"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for using public transport",
+    "tier_3": "Domain-specific technical terms related to using public transport"
+  },
+  "grammar_focus": [
+    "Present perfect",
+    "Modal verbs",
+    "First conditional"
+  ],
+  "materials_needed": [
+    "Audio player",
+    "Microphones",
+    "Recording device",
+    "Speakers"
+  ],
+  "technology_integration": [
+    "Podcasts",
+    "Audio recording apps",
+    "Voice notes",
+    "Music platforms"
+  ],
+  "homework_options": {
+    "required": "Core assignment at intermediate level using auditory approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for auditory learners",
+    "differentiation_tips": "Adjust complexity for intermediate level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about using public transport",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide graphic organizers",
+    "Offer peer support",
+    "Break tasks into steps",
+    "Give specific feedback"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}

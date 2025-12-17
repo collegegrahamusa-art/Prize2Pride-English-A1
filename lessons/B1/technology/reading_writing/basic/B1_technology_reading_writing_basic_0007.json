@@ -1,0 +1,212 @@
+{
+  "lesson_id": "B1_technology_reading_writing_basic_0007",
+  "level": "B1",
+  "category": "technology",
+  "topic": "Listening to Podcasts",
+  "learning_style": "reading_writing",
+  "learning_style_name": "Reading/Writing Learners",
+  "cognitive_level": "basic",
+  "cognitive_level_name": "Basic/Foundational",
+  "duration": "45-60 minutes",
+  "objectives": [
+    "Identify and recall key vocabulary related to listening to podcasts",
+    "Understand main ideas in conversations about listening to podcasts",
+    "Recognize common phrases and expressions"
+  ],
+  "learning_style_adaptations": [
+    "Reading comprehension activities",
+    "Writing assignments and journals",
+    "Note-taking and summarizing",
+    "Text analysis and annotation",
+    "Written reflections"
+  ],
+  "cognitive_activities": [
+    "Recall vocabulary and phrases",
+    "Identify and recognize patterns",
+    "Explain concepts in simple terms",
+    "Summarize main ideas",
+    "Match and categorize"
+  ],
+  "multiple_intelligences": {
+    "linguistic": "Write a story or essay about listening to podcasts",
+    "logical_mathematical": "Analyze patterns and create logical arguments about listening to podcasts",
+    "spatial": "Create visual representations or mind maps of listening to podcasts",
+    "bodily_kinesthetic": "Role-play or act out scenarios related to listening to podcasts",
+    "musical": "Create a song or rhythm exercise about listening to podcasts",
+    "interpersonal": "Collaborate in groups to discuss listening to podcasts",
+    "intrapersonal": "Reflect individually on personal connection to listening to podcasts",
+    "naturalistic": "Categorize and classify concepts related to listening to podcasts"
+  },
+  "udl_principles": {
+    "representation": [
+      "Text documents",
+      "Written instructions",
+      "Articles",
+      "Handouts"
+    ],
+    "action_expression": [
+      "Write essays",
+      "Create reports",
+      "Compose blogs",
+      "Draft scripts"
+    ],
+    "engagement": [
+      "Clear structure",
+      "Immediate feedback",
+      "Achievable goals",
+      "Positive reinforcement"
+    ]
+  },
+  "differentiation": {
+    "content": {
+      "basic": "Simplified texts and basic vocabulary about listening to podcasts",
+      "intermediate": "Standard complexity materials with support about listening to podcasts",
+      "advanced": "Complex authentic materials and academic texts about listening to podcasts"
+    },
+    "process": {
+      "grouping": "Individual, pairs, small groups, or whole class based on preference",
+      "pacing": "Teacher-paced with flexibility",
+      "support": "Scaffolded support decreasing over time",
+      "choice": "Multiple activity options aligned with learning style"
+    },
+    "product": [
+      "Essay",
+      "Report",
+      "Blog post",
+      "Written dialogue"
+    ],
+    "environment": "Quiet study area with writing materials and references"
+  },
+  "warm_up": {
+    "activity": "Quick Write",
+    "description": "Students write quick responses about listening to podcasts",
+    "materials": "Paper and pens or digital writing tools"
+  },
+  "main_activities": [
+    {
+      "number": 1,
+      "type": "Input Activity",
+      "learning_style_adaptation": "Reading comprehension activities",
+      "cognitive_level": "Remember",
+      "description": "Students receive information about listening to podcasts through reading_writing modality",
+      "time": "10-15 minutes"
+    },
+    {
+      "number": 2,
+      "type": "Practice Activity",
+      "learning_style_adaptation": "Writing assignments and journals",
+      "cognitive_level": "Understand",
+      "description": "Students practice language related to listening to podcasts using reading_writing approach",
+      "time": "15-20 minutes"
+    },
+    {
+      "number": 3,
+      "type": "Production Activity",
+      "learning_style_adaptation": "Note-taking and summarizing",
+      "cognitive_level": "Recall vocabulary and phrases",
+      "description": "Students produce original content about listening to podcasts demonstrating basic thinking",
+      "time": "15-20 minutes"
+    }
+  ],
+  "discussion_prompts": [
+    "What is listening to podcasts?",
+    "Can you describe listening to podcasts?",
+    "What do you know about listening to podcasts?"
+  ],
+  "assessment": {
+    "formative": [
+      "Ongoing observation during activities",
+      "Quick checks for understanding",
+      "Peer feedback sessions",
+      "Self-assessment checklists"
+    ],
+    "summative": [
+      "Final product in reading_writing format",
+      "Assessment at basic level",
+      "Rubric-based evaluation",
+      "Portfolio assessment option"
+    ],
+    "alternative": [
+      "Choice in demonstration method",
+      "Multiple attempt options",
+      "Collaborative assessment",
+      "Process-focused evaluation"
+    ]
+  },
+  "scaffolding": [
+    "Sentence starters provided",
+    "Word banks available",
+    "Model examples given",
+    "Step-by-step instructions",
+    "Visual supports"
+  ],
+  "extension_challenges": [
+    "Additional practice with similar tasks",
+    "Vocabulary expansion activities",
+    "Repetition with variation"
+  ],
+  "vocabulary_support": {
+    "tier_1": "High-frequency everyday words",
+    "tier_2": "Academic and topic-specific words for listening to podcasts",
+    "tier_3": "Domain-specific technical terms related to listening to podcasts"
+  },
+  "grammar_focus": [
+    "Present perfect",
+    "Modal verbs",
+    "First conditional"
+  ],
+  "materials_needed": [
+    "Texts",
+    "Handouts",
+    "Writing materials",
+    "Reference books"
+  ],
+  "technology_integration": [
+    "Google Docs",
+    "Blogs",
+    "Digital portfolios",
+    "E-books"
+  ],
+  "homework_options": {
+    "required": "Core assignment at basic level using reading_writing approach",
+    "choice_1": "Alternative format option",
+    "choice_2": "Extended project option",
+    "support": "Scaffolded version available",
+    "challenge": "Advanced extension available"
+  },
+  "teacher_notes": {
+    "preparation": "Prepare materials for reading_writing learners",
+    "differentiation_tips": "Adjust complexity for basic level",
+    "grouping_suggestions": "Flexible grouping based on readiness and interest",
+    "time_management": "Build in flexibility for different pacing needs",
+    "assessment_notes": "Use multiple assessment methods"
+  },
+  "common_difficulties": [
+    "Students may lack background knowledge about listening to podcasts",
+    "Vocabulary may be challenging for some students",
+    "Cultural differences may affect understanding",
+    "Some students may need more processing time"
+  ],
+  "intervention_strategies": [
+    "Provide additional modeling",
+    "Simplify language",
+    "Increase scaffolding",
+    "Allow more time"
+  ],
+  "methodology": "UDL + Differentiated Instruction + CLT + Multiple Intelligences",
+  "frameworks": [
+    "Universal Design for Learning (CAST)",
+    "Differentiated Instruction (Tomlinson)",
+    "Multiple Intelligences (Gardner)",
+    "Bloom's Taxonomy (Revised)",
+    "CEFR Framework",
+    "VARK Learning Styles"
+  ],
+  "references": [
+    "Cambridge English Language Assessment",
+    "Oxford English Language Teaching",
+    "TESOL International Standards",
+    "CAST Universal Design for Learning Guidelines",
+    "Tomlinson, C.A. (2014). The Differentiated Classroom"
+  ]
+}
